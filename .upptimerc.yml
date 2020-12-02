@@ -14,6 +14,7 @@ sites:
     url: https://ccih.med.br
   - name: LP - Guarda Bens
     url: https://guardabens-lp1.com.br
+    maxResponseTime : 50
     
 status-website:
   baseUrl: /upptime
