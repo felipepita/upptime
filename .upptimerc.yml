@@ -12,7 +12,9 @@ sites:
     url: https://chromatox.com.br
   - name: CCIH
     url: https://ccih.med.br
-
+  - name: LP - Guarda Bens
+    url: https://guardabens-lp1.com.br
+    
 status-website:
   baseUrl: /upptime
   logoUrl: https://www.ms360.com.br/estrutura/img/logo.png
