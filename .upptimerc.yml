@@ -24,8 +24,8 @@ status-website:
   navbar:
     - title: Status
       href: /
-    - title: WhatsApp
-      href: https://web.whatsapp.com/send?phone=5511975915007
+    - title: Suporte
+      href: mailto:suporte@montarsite.com.br
 
 i18n:
   footer: MS360 - Security and Performance
