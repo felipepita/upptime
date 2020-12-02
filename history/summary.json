@@ -67,16 +67,16 @@
     "name": "LP - Guarda Bens",
     "url": "https://guardabens-lp1.com.br",
     "slug": "lp-guarda-bens",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 459,
-    "timeDay": 459,
-    "timeWeek": 459,
-    "timeMonth": 459,
-    "timeYear": 459
+    "status": "degraded",
+    "uptime": "97.89%",
+    "uptimeDay": "97.89%",
+    "uptimeWeek": "97.89%",
+    "uptimeMonth": "97.89%",
+    "uptimeYear": "97.89%",
+    "time": 474,
+    "timeDay": 474,
+    "timeWeek": 474,
+    "timeMonth": 474,
+    "timeYear": 474
   }
 ]
