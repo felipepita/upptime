@@ -9,11 +9,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 283,
-    "timeDay": 283,
-    "timeWeek": 283,
-    "timeMonth": 283,
-    "timeYear": 283
+    "time": 292,
+    "timeDay": 292,
+    "timeWeek": 292,
+    "timeMonth": 292,
+    "timeYear": 292
   },
   {
     "name": "MontarSite",
@@ -25,11 +25,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 303,
-    "timeDay": 303,
-    "timeWeek": 303,
-    "timeMonth": 303,
-    "timeYear": 303
+    "time": 307,
+    "timeDay": 307,
+    "timeWeek": 307,
+    "timeMonth": 307,
+    "timeYear": 307
   },
   {
     "name": "Chromatox",
@@ -41,11 +41,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 3301,
-    "timeDay": 3301,
-    "timeWeek": 3301,
-    "timeMonth": 3301,
-    "timeYear": 3301
+    "time": 3245,
+    "timeDay": 3245,
+    "timeWeek": 3245,
+    "timeMonth": 3245,
+    "timeYear": 3245
   },
   {
     "name": "CCIH",
@@ -57,26 +57,26 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1145,
-    "timeDay": 1145,
-    "timeWeek": 1145,
-    "timeMonth": 1145,
-    "timeYear": 1145
+    "time": 1163,
+    "timeDay": 1163,
+    "timeWeek": 1163,
+    "timeMonth": 1163,
+    "timeYear": 1163
   },
   {
     "name": "LP - Guarda Bens",
     "url": "https://guardabens-lp1.com.br",
     "slug": "lp-guarda-bens",
-    "status": "degraded",
-    "uptime": "97.89%",
-    "uptimeDay": "97.89%",
-    "uptimeWeek": "97.89%",
-    "uptimeMonth": "97.89%",
-    "uptimeYear": "97.89%",
-    "time": 474,
-    "timeDay": 474,
-    "timeWeek": 474,
-    "timeMonth": 474,
-    "timeYear": 474
+    "status": "up",
+    "uptime": "82.08%",
+    "uptimeDay": "82.08%",
+    "uptimeWeek": "82.08%",
+    "uptimeMonth": "82.08%",
+    "uptimeYear": "82.08%",
+    "time": 738,
+    "timeDay": 738,
+    "timeWeek": 738,
+    "timeMonth": 738,
+    "timeYear": 738
   }
 ]
