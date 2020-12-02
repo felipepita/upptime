@@ -15,6 +15,9 @@ sites:
   - name: LP - Guarda Bens
     url: https://guardabens-lp1.com.br
     maxResponseTime : 5000
+  - name: E-fish
+    url: https://efish.com.br
+    maxResponseTime : 10000
     
 status-website:
   baseUrl: /upptime
