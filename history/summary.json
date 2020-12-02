@@ -9,11 +9,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 356,
-    "timeDay": 356,
-    "timeWeek": 356,
-    "timeMonth": 356,
-    "timeYear": 356
+    "time": 333,
+    "timeDay": 333,
+    "timeWeek": 333,
+    "timeMonth": 333,
+    "timeYear": 333
   },
   {
     "name": "MontarSite",
@@ -25,27 +25,27 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 320,
-    "timeDay": 320,
-    "timeWeek": 320,
-    "timeMonth": 320,
-    "timeYear": 320
+    "time": 324,
+    "timeDay": 324,
+    "timeWeek": 324,
+    "timeMonth": 324,
+    "timeYear": 324
   },
   {
-    "name": "Chromtaox",
+    "name": "Chromatox",
     "url": "https://chromatox.com.br",
-    "slug": "chromtaox",
+    "slug": "chromatox",
     "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 3092,
-    "timeDay": 3092,
-    "timeWeek": 3092,
-    "timeMonth": 3092,
-    "timeYear": 3092
+    "time": 3113,
+    "timeDay": 3113,
+    "timeWeek": 3113,
+    "timeMonth": 3113,
+    "timeYear": 3113
   },
   {
     "name": "CCIH",
@@ -57,10 +57,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1254,
-    "timeDay": 1254,
-    "timeWeek": 1254,
-    "timeMonth": 1254,
-    "timeYear": 1254
+    "time": 1241,
+    "timeDay": 1241,
+    "timeWeek": 1241,
+    "timeMonth": 1241,
+    "timeYear": 1241
   }
 ]
