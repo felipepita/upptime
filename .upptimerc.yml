@@ -17,7 +17,7 @@ sites:
     maxResponseTime : 5000
   - name: E-fish
     url: https://efish.com.br
-    maxResponseTime : 2000
+    maxResponseTime : 20000
     
 status-website:
   baseUrl: /upptime
