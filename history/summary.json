@@ -9,11 +9,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 283,
-    "timeDay": 283,
-    "timeWeek": 283,
-    "timeMonth": 283,
-    "timeYear": 283
+    "time": 281,
+    "timeDay": 281,
+    "timeWeek": 281,
+    "timeMonth": 281,
+    "timeYear": 281
   },
   {
     "name": "MontarSite",
@@ -25,11 +25,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 317,
-    "timeDay": 317,
-    "timeWeek": 317,
-    "timeMonth": 317,
-    "timeYear": 317
+    "time": 335,
+    "timeDay": 335,
+    "timeWeek": 335,
+    "timeMonth": 335,
+    "timeYear": 335
   },
   {
     "name": "Chromatox",
@@ -41,11 +41,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 3110,
-    "timeDay": 3110,
-    "timeWeek": 3110,
-    "timeMonth": 3110,
-    "timeYear": 3110
+    "time": 3093,
+    "timeDay": 3093,
+    "timeWeek": 3093,
+    "timeMonth": 3093,
+    "timeYear": 3093
   },
   {
     "name": "CCIH",
@@ -57,11 +57,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1095,
-    "timeDay": 1095,
-    "timeWeek": 1095,
-    "timeMonth": 1095,
-    "timeYear": 1095
+    "time": 1091,
+    "timeDay": 1091,
+    "timeWeek": 1091,
+    "timeMonth": 1091,
+    "timeYear": 1091
   },
   {
     "name": "LP - Guarda Bens",
@@ -73,26 +73,26 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 641,
-    "timeDay": 641,
-    "timeWeek": 641,
-    "timeMonth": 641,
-    "timeYear": 641
+    "time": 606,
+    "timeDay": 606,
+    "timeWeek": 606,
+    "timeMonth": 606,
+    "timeYear": 606
   },
   {
     "name": "E-fish",
     "url": "https://efish.com.br",
     "slug": "e-fish",
     "status": "degraded",
-    "uptime": "76.15%",
-    "uptimeDay": "76.15%",
-    "uptimeWeek": "76.15%",
-    "uptimeMonth": "76.15%",
-    "uptimeYear": "76.15%",
-    "time": 10276,
-    "timeDay": 10276,
-    "timeWeek": 10276,
-    "timeMonth": 10276,
-    "timeYear": 10276
+    "uptime": "76.49%",
+    "uptimeDay": "76.49%",
+    "uptimeWeek": "76.49%",
+    "uptimeMonth": "76.49%",
+    "uptimeYear": "76.49%",
+    "time": 11242,
+    "timeDay": 11242,
+    "timeWeek": 11242,
+    "timeMonth": 11242,
+    "timeYear": 11242
   }
 ]
