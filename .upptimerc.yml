@@ -32,13 +32,13 @@ status-website:
       href: mailto:suporte@montarsite.com.br
 
 workflowSchedule:
-  graphs: "0 * * ? * * *"
-  responseTime: "0 * * ? * * *"
-  staticSite: "0 * * ? * * *"
-  summary: "0 0 * * *"
-  updateTemplate: "0 0 * * *"
-  updates: "0 * * ? * * *"
-  uptime: "0 * * ? * * *"
+  graphs: "* * * * *"
+  responseTime: "* * * * *"
+  staticSite: "* * * * *"
+  summary: "* * * * *"
+  updateTemplate: "* * * * *"
+  updates: "* * * * *"
+  uptime: "*/5 * * * *"
 
 i18n:
   footer: MS360 - Security and Performance
