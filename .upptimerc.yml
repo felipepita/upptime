@@ -31,15 +31,6 @@ status-website:
     - title: Suporte
       href: mailto:suporte@montarsite.com.br
 
-workflowSchedule:
-  graphs: "* * * * *"
-  responseTime: "* * * * *"
-  staticSite: "* * * * *"
-  summary: "* * * * *"
-  updateTemplate: "* * * * *"
-  updates: "* * * * *"
-  uptime: "*/5 * * * *"
-
 i18n:
   footer: MS360 - Security and Performance
   activeIncidents: Incidentes ativos
