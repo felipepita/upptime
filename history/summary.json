@@ -83,16 +83,16 @@
     "name": "E-fish",
     "url": "https://efish.com.br",
     "slug": "e-fish",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 590,
-    "timeDay": 590,
-    "timeWeek": 590,
-    "timeMonth": 590,
-    "timeYear": 590
+    "status": "degraded",
+    "uptime": "99.98%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
+    "time": 4922,
+    "timeDay": 4922,
+    "timeWeek": 4922,
+    "timeMonth": 4922,
+    "timeYear": 4922
   }
 ]
