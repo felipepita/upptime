@@ -9,11 +9,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 281,
-    "timeDay": 281,
-    "timeWeek": 281,
-    "timeMonth": 281,
-    "timeYear": 281
+    "time": 283,
+    "timeDay": 283,
+    "timeWeek": 283,
+    "timeMonth": 283,
+    "timeYear": 283
   },
   {
     "name": "MontarSite",
@@ -25,11 +25,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 335,
-    "timeDay": 335,
-    "timeWeek": 335,
-    "timeMonth": 335,
-    "timeYear": 335
+    "time": 333,
+    "timeDay": 333,
+    "timeWeek": 333,
+    "timeMonth": 333,
+    "timeYear": 333
   },
   {
     "name": "Chromatox",
@@ -57,11 +57,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1091,
-    "timeDay": 1091,
-    "timeWeek": 1091,
-    "timeMonth": 1091,
-    "timeYear": 1091
+    "time": 1100,
+    "timeDay": 1100,
+    "timeWeek": 1100,
+    "timeMonth": 1100,
+    "timeYear": 1100
   },
   {
     "name": "LP - Guarda Bens",
@@ -73,26 +73,26 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 606,
-    "timeDay": 606,
-    "timeWeek": 606,
-    "timeMonth": 606,
-    "timeYear": 606
+    "time": 599,
+    "timeDay": 599,
+    "timeWeek": 599,
+    "timeMonth": 599,
+    "timeYear": 599
   },
   {
     "name": "E-fish",
     "url": "https://efish.com.br",
     "slug": "e-fish",
     "status": "degraded",
-    "uptime": "76.49%",
-    "uptimeDay": "76.49%",
-    "uptimeWeek": "76.49%",
-    "uptimeMonth": "76.49%",
-    "uptimeYear": "76.49%",
-    "time": 11242,
-    "timeDay": 11242,
-    "timeWeek": 11242,
-    "timeMonth": 11242,
-    "timeYear": 11242
+    "uptime": "76.76%",
+    "uptimeDay": "76.76%",
+    "uptimeWeek": "76.76%",
+    "uptimeMonth": "76.76%",
+    "uptimeYear": "76.76%",
+    "time": 11622,
+    "timeDay": 11622,
+    "timeWeek": 11622,
+    "timeMonth": 11622,
+    "timeYear": 11622
   }
 ]
