@@ -41,11 +41,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 3076,
-    "timeDay": 3022,
-    "timeWeek": 3076,
-    "timeMonth": 3076,
-    "timeYear": 3076
+    "time": 3079,
+    "timeDay": 3030,
+    "timeWeek": 3079,
+    "timeMonth": 3079,
+    "timeYear": 3079
   },
   {
     "name": "CCIH",
@@ -57,11 +57,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1086,
-    "timeDay": 1064,
-    "timeWeek": 1086,
-    "timeMonth": 1086,
-    "timeYear": 1086
+    "time": 1093,
+    "timeDay": 1074,
+    "timeWeek": 1093,
+    "timeMonth": 1093,
+    "timeYear": 1093
   },
   {
     "name": "LP - Guarda Bens",
@@ -73,26 +73,26 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 575,
-    "timeDay": 575,
-    "timeWeek": 575,
-    "timeMonth": 575,
-    "timeYear": 575
+    "time": 568,
+    "timeDay": 568,
+    "timeWeek": 568,
+    "timeMonth": 568,
+    "timeYear": 568
   },
   {
     "name": "E-fish",
     "url": "https://efish.com.br",
     "slug": "e-fish",
-    "status": "degraded",
-    "uptime": "80.80%",
-    "uptimeDay": "80.80%",
-    "uptimeWeek": "80.80%",
-    "uptimeMonth": "80.80%",
-    "uptimeYear": "80.80%",
-    "time": 12802,
-    "timeDay": 12802,
-    "timeWeek": 12802,
-    "timeMonth": 12802,
-    "timeYear": 12802
+    "status": "up",
+    "uptime": "80.73%",
+    "uptimeDay": "80.73%",
+    "uptimeWeek": "80.73%",
+    "uptimeMonth": "80.73%",
+    "uptimeYear": "80.73%",
+    "time": 12948,
+    "timeDay": 12948,
+    "timeWeek": 12948,
+    "timeMonth": 12948,
+    "timeYear": 12948
   }
 ]
