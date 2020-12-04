@@ -10,7 +10,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 275,
-    "timeDay": 271,
+    "timeDay": 275,
     "timeWeek": 275,
     "timeMonth": 275,
     "timeYear": 275
@@ -26,7 +26,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 340,
-    "timeDay": 342,
+    "timeDay": 376,
     "timeWeek": 340,
     "timeMonth": 340,
     "timeYear": 340
@@ -42,7 +42,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 3079,
-    "timeDay": 3030,
+    "timeDay": 3018,
     "timeWeek": 3079,
     "timeMonth": 3079,
     "timeYear": 3079
@@ -57,11 +57,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1093,
-    "timeDay": 1074,
-    "timeWeek": 1093,
-    "timeMonth": 1093,
-    "timeYear": 1093
+    "time": 1097,
+    "timeDay": 1085,
+    "timeWeek": 1097,
+    "timeMonth": 1097,
+    "timeYear": 1097
   },
   {
     "name": "LP - Guarda Bens",
@@ -73,26 +73,26 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 568,
-    "timeDay": 568,
-    "timeWeek": 568,
-    "timeMonth": 568,
-    "timeYear": 568
+    "time": 562,
+    "timeDay": 536,
+    "timeWeek": 562,
+    "timeMonth": 562,
+    "timeYear": 562
   },
   {
     "name": "E-fish",
     "url": "https://efish.com.br",
     "slug": "e-fish",
     "status": "up",
-    "uptime": "80.84%",
-    "uptimeDay": "80.84%",
-    "uptimeWeek": "80.84%",
-    "uptimeMonth": "80.84%",
-    "uptimeYear": "80.84%",
-    "time": 12948,
-    "timeDay": 12948,
-    "timeWeek": 12948,
-    "timeMonth": 12948,
-    "timeYear": 12948
+    "uptime": "85.41%",
+    "uptimeDay": "82.43%",
+    "uptimeWeek": "85.41%",
+    "uptimeMonth": "85.41%",
+    "uptimeYear": "85.41%",
+    "time": 12141,
+    "timeDay": 13918,
+    "timeWeek": 12141,
+    "timeMonth": 12141,
+    "timeYear": 12141
   }
 ]
