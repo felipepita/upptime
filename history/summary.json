@@ -9,11 +9,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 271,
-    "timeDay": 185,
-    "timeWeek": 271,
-    "timeMonth": 271,
-    "timeYear": 271
+    "time": 272,
+    "timeDay": 290,
+    "timeWeek": 272,
+    "timeMonth": 272,
+    "timeYear": 272
   },
   {
     "name": "MontarSite",
@@ -25,27 +25,27 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 338,
-    "timeDay": 306,
-    "timeWeek": 338,
-    "timeMonth": 338,
-    "timeYear": 338
+    "time": 332,
+    "timeDay": 190,
+    "timeWeek": 332,
+    "timeMonth": 332,
+    "timeYear": 332
   },
   {
     "name": "Chromatox",
     "url": "https://chromatox.com.br",
     "slug": "chromatox",
     "status": "up",
-    "uptime": "99.24%",
+    "uptime": "99.43%",
     "uptimeDay": "98.08%",
-    "uptimeWeek": "99.24%",
-    "uptimeMonth": "99.24%",
-    "uptimeYear": "99.24%",
-    "time": 3074,
-    "timeDay": 3019,
-    "timeWeek": 3074,
-    "timeMonth": 3074,
-    "timeYear": 3074
+    "uptimeWeek": "99.43%",
+    "uptimeMonth": "99.43%",
+    "uptimeYear": "99.43%",
+    "time": 3068,
+    "timeDay": 2953,
+    "timeWeek": 3068,
+    "timeMonth": 3068,
+    "timeYear": 3068
   },
   {
     "name": "CCIH",
@@ -57,11 +57,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1090,
-    "timeDay": 944,
-    "timeWeek": 1090,
-    "timeMonth": 1090,
-    "timeYear": 1090
+    "time": 1083,
+    "timeDay": 919,
+    "timeWeek": 1083,
+    "timeMonth": 1083,
+    "timeYear": 1083
   },
   {
     "name": "LP - Guarda Bens",
@@ -73,26 +73,26 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 549,
-    "timeDay": 300,
-    "timeWeek": 549,
-    "timeMonth": 549,
-    "timeYear": 549
+    "time": 541,
+    "timeDay": 380,
+    "timeWeek": 541,
+    "timeMonth": 541,
+    "timeYear": 541
   },
   {
     "name": "E-fish",
     "url": "https://efish.com.br",
     "slug": "e-fish",
     "status": "up",
-    "uptime": "92.59%",
+    "uptime": "94.51%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "92.59%",
-    "uptimeMonth": "92.59%",
-    "uptimeYear": "92.59%",
-    "time": 11416,
-    "timeDay": 545,
-    "timeWeek": 11416,
-    "timeMonth": 11416,
-    "timeYear": 11416
+    "uptimeWeek": "94.51%",
+    "uptimeMonth": "94.51%",
+    "uptimeYear": "94.51%",
+    "time": 10774,
+    "timeDay": 497,
+    "timeWeek": 10774,
+    "timeMonth": 10774,
+    "timeYear": 10774
   }
 ]
