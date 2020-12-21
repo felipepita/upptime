@@ -99,9 +99,9 @@
     "url": "https://efish.com.br",
     "icon": "https://favicons.githubusercontent.com/efish.com.br",
     "slug": "e-fish",
-    "status": "up",
+    "status": "down",
     "uptime": "98.90%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.90%",
     "uptimeYear": "98.90%",
@@ -111,6 +111,7 @@
     "timeMonth": 6569,
     "timeYear": 6569,
     "dailyMinutesDown": {
+      "2020-12-21": 0,
       "2020-12-08": 44,
       "2020-12-03": 253
     }
