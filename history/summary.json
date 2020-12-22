@@ -81,19 +81,19 @@
     "url": "https://guardabens-lp1.com.br",
     "icon": "https://favicons.githubusercontent.com/guardabens-lp1.com.br",
     "slug": "lp-guarda-bens",
-    "status": "degraded",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 814,
-    "timeDay": 3830,
-    "timeWeek": 1753,
-    "timeMonth": 814,
-    "timeYear": 814,
+    "status": "up",
+    "uptime": "99.93%",
+    "uptimeDay": "98.64%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.93%",
+    "time": 804,
+    "timeDay": 3144,
+    "timeWeek": 1630,
+    "timeMonth": 804,
+    "timeYear": 804,
     "dailyMinutesDown": {
-      "2020-12-22": 0
+      "2020-12-22": 20
     }
   },
   {
