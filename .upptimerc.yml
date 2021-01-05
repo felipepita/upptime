@@ -18,6 +18,10 @@ sites:
   - name: E-fish
     url: https://efish.com.br
     maxResponseTime : 20000
+  - name: Boleto Bradesco
+    url: https://cobranca.bradesconetempresa.b.br
+    maxResponseTime : 1000
+
     
 status-website:
   baseUrl: /upptime
