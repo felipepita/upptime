@@ -21,6 +21,10 @@ sites:
   - name: Boleto Bradesco
     url: https://cobranca.bradesconetempresa.b.br
     maxResponseTime : 1000
+  - name: Aulas Online CCIH
+    url: https://aulasonline.ccih.med.br
+ 
+    
 
     
 status-website:
