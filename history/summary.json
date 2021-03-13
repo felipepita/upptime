@@ -174,18 +174,19 @@
     "url": "https://aulasonline.ccih.med.br",
     "icon": "https://favicons.githubusercontent.com/aulasonline.ccih.med.br",
     "slug": "aulas-online-ccih",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.97%",
-    "time": 577,
-    "timeDay": 471,
-    "timeWeek": 444,
-    "timeMonth": 501,
-    "timeYear": 577,
+    "time": 570,
+    "timeDay": 305,
+    "timeWeek": 406,
+    "timeMonth": 489,
+    "timeYear": 570,
     "dailyMinutesDown": {
+      "2021-03-13": 0,
       "2021-03-01": 23
     }
   }
