@@ -42,7 +42,7 @@
     "url": "https://chromatox.com.br",
     "icon": "https://favicons.githubusercontent.com/chromatox.com.br",
     "slug": "chromatox",
-    "status": "up",
+    "status": "down",
     "uptime": "98.12%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -137,7 +137,7 @@
     "uptimeYear": "99.30%",
     "time": 5277,
     "timeDay": 724,
-    "timeWeek": 795,
+    "timeWeek": 779,
     "timeMonth": 9756,
     "timeYear": 5277,
     "dailyMinutesDown": {
