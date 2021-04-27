@@ -51,7 +51,7 @@
     "time": 4769,
     "timeDay": 849,
     "timeWeek": 925,
-    "timeMonth": 6828,
+    "timeMonth": 6745,
     "timeYear": 4769,
     "dailyMinutesDown": {
       "2021-03-15": 235,
@@ -91,9 +91,9 @@
     "url": "https://ccih.med.br",
     "icon": "https://favicons.githubusercontent.com/ccih.med.br",
     "slug": "ccih",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -102,7 +102,9 @@
     "timeWeek": 817,
     "timeMonth": 799,
     "timeYear": 910,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-04-27": 0
+    }
   },
   {
     "name": "LP - Guarda Bens",
@@ -130,14 +132,14 @@
     "icon": "https://favicons.githubusercontent.com/efish.com.br",
     "slug": "e-fish",
     "status": "up",
-    "uptime": "99.43%",
+    "uptime": "99.44%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.83%",
     "uptimeMonth": "99.96%",
-    "uptimeYear": "99.43%",
+    "uptimeYear": "99.44%",
     "time": 5330,
     "timeDay": 1553,
-    "timeWeek": 942,
+    "timeWeek": 954,
     "timeMonth": 5430,
     "timeYear": 5330,
     "dailyMinutesDown": {
