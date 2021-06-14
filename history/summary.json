@@ -12,8 +12,8 @@
     "uptimeYear": "99.99%",
     "time": 376,
     "timeDay": 406,
-    "timeWeek": 299,
-    "timeMonth": 290,
+    "timeWeek": 312,
+    "timeMonth": 285,
     "timeYear": 376,
     "dailyMinutesDown": {
       "2021-02-17": 21
@@ -32,8 +32,8 @@
     "uptimeYear": "100.00%",
     "time": 387,
     "timeDay": 482,
-    "timeWeek": 361,
-    "timeMonth": 467,
+    "timeWeek": 373,
+    "timeMonth": 455,
     "timeYear": 387,
     "dailyMinutesDown": {}
   },
@@ -50,8 +50,8 @@
     "uptimeYear": "98.53%",
     "time": 3827,
     "timeDay": 2619,
-    "timeWeek": 1372,
-    "timeMonth": 919,
+    "timeWeek": 1409,
+    "timeMonth": 916,
     "timeYear": 3827,
     "dailyMinutesDown": {
       "2021-06-10": 188,
@@ -110,8 +110,8 @@
     "uptimeYear": "99.98%",
     "time": 909,
     "timeDay": 728,
-    "timeWeek": 808,
-    "timeMonth": 898,
+    "timeWeek": 831,
+    "timeMonth": 904,
     "timeYear": 909,
     "dailyMinutesDown": {
       "2021-04-27": 57
@@ -130,8 +130,8 @@
     "uptimeYear": "99.99%",
     "time": 498,
     "timeDay": 464,
-    "timeWeek": 402,
-    "timeMonth": 385,
+    "timeWeek": 411,
+    "timeMonth": 377,
     "timeYear": 498,
     "dailyMinutesDown": {
       "2020-12-22": 20
@@ -144,14 +144,14 @@
     "slug": "e-fish",
     "status": "up",
     "uptime": "99.08%",
-    "uptimeDay": "81.03%",
+    "uptimeDay": "83.30%",
     "uptimeWeek": "86.54%",
     "uptimeMonth": "96.90%",
     "uptimeYear": "99.08%",
     "time": 7309,
-    "timeDay": 17721,
-    "timeWeek": 17376,
-    "timeMonth": 13124,
+    "timeDay": 17328,
+    "timeWeek": 17627,
+    "timeMonth": 13259,
     "timeYear": 7309,
     "dailyMinutesDown": {
       "2021-06-13": 270,
@@ -206,8 +206,8 @@
     "uptimeYear": "99.96%",
     "time": 1470,
     "timeDay": 2039,
-    "timeWeek": 2844,
-    "timeMonth": 3275,
+    "timeWeek": 2942,
+    "timeMonth": 3312,
     "timeYear": 1470,
     "dailyMinutesDown": {
       "2021-06-08": 37,
