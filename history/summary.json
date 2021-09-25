@@ -25,10 +25,10 @@
     "url": "https://montarsite.com.br",
     "icon": "https://favicons.githubusercontent.com/montarsite.com.br",
     "slug": "montar-site",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 393,
@@ -36,7 +36,9 @@
     "timeWeek": 392,
     "timeMonth": 393,
     "timeYear": 393,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-09-25": 1
+    }
   },
   {
     "name": "Chromatox",
@@ -127,10 +129,10 @@
     "url": "https://guardabens-lp1.com.br",
     "icon": "https://favicons.githubusercontent.com/guardabens-lp1.com.br",
     "slug": "lp-guarda-bens",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 469,
@@ -139,6 +141,7 @@
     "timeMonth": 397,
     "timeYear": 469,
     "dailyMinutesDown": {
+      "2021-09-25": 1,
       "2020-12-22": 20
     }
   },
@@ -223,9 +226,9 @@
     "url": "https://aulasonline.ccih.med.br",
     "icon": "https://favicons.githubusercontent.com/aulasonline.ccih.med.br",
     "slug": "aulas-online-ccih",
-    "status": "up",
+    "status": "down",
     "uptime": "98.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "96.73%",
     "uptimeYear": "98.99%",
@@ -235,6 +238,7 @@
     "timeMonth": 2245,
     "timeYear": 2290,
     "dailyMinutesDown": {
+      "2021-09-25": 0,
       "2021-09-01": 875,
       "2021-08-31": 536,
       "2021-08-30": 20,
