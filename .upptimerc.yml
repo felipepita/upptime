@@ -23,8 +23,10 @@ sites:
     maxResponseTime : 1000
   - name: Aulas Online CCIH
     url: https://aulasonline.ccih.med.br
+  - name: VB ALIMENTOS
+    url: https://vbalimentos.com.br/
  
-    
+ 
 
     
 status-website:
