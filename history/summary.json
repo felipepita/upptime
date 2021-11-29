@@ -16,7 +16,7 @@
     "timeMonth": 165,
     "timeYear": 631,
     "dailyMinutesDown": {
-      "2021-11-29": 35,
+      "2021-11-29": 77,
       "2021-11-28": 1440,
       "2021-11-27": 1440,
       "2021-11-26": 1440,
@@ -167,7 +167,7 @@
     "timeMonth": 134,
     "timeYear": 877,
     "dailyMinutesDown": {
-      "2021-11-29": 35,
+      "2021-11-29": 77,
       "2021-11-28": 1440,
       "2021-11-27": 1440,
       "2021-11-26": 1440,
@@ -231,18 +231,19 @@
     "url": "https://efish.com.br",
     "icon": "https://favicons.githubusercontent.com/efish.com.br",
     "slug": "e-fish",
-    "status": "up",
-    "uptime": "99.07%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "96.68%",
+    "status": "degraded",
+    "uptime": "99.11%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "96.67%",
     "uptimeMonth": "97.98%",
-    "uptimeYear": "99.07%",
-    "time": 11219,
-    "timeDay": 15177,
-    "timeWeek": 19021,
-    "timeMonth": 17298,
-    "timeYear": 11219,
+    "uptimeYear": "99.11%",
+    "time": 11239,
+    "timeDay": 19066,
+    "timeWeek": 19162,
+    "timeMonth": 17389,
+    "timeYear": 11239,
     "dailyMinutesDown": {
+      "2021-11-29": 0,
       "2021-11-27": 55,
       "2021-11-26": 27,
       "2021-11-23": 16,
@@ -295,8 +296,7 @@
       "2021-03-08": 19,
       "2021-03-07": 69,
       "2021-02-20": 298,
-      "2021-01-18": 63,
-      "2020-12-21": 204
+      "2021-01-18": 63
     }
   },
   {
