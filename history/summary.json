@@ -16,7 +16,7 @@
     "timeMonth": 181,
     "timeYear": 629,
     "dailyMinutesDown": {
-      "2022-02-05": 813,
+      "2022-02-05": 826,
       "2022-02-04": 1440,
       "2022-02-03": 1440,
       "2022-02-02": 1440,
@@ -224,7 +224,7 @@
     "timeMonth": 176,
     "timeYear": 716,
     "dailyMinutesDown": {
-      "2022-02-05": 813,
+      "2022-02-05": 826,
       "2022-02-04": 1440,
       "2022-02-03": 1440,
       "2022-02-02": 1440,
@@ -426,7 +426,7 @@
     "url": "https://cobranca.bradesconetempresa.b.br",
     "icon": "https://favicons.githubusercontent.com/cobranca.bradesconetempresa.b.br",
     "slug": "boleto-bradesco",
-    "status": "down",
+    "status": "degraded",
     "uptime": "90.28%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
@@ -438,7 +438,7 @@
     "timeMonth": 1126,
     "timeYear": 1109,
     "dailyMinutesDown": {
-      "2022-02-05": 813,
+      "2022-02-05": 826,
       "2022-02-04": 1440,
       "2022-02-03": 1440,
       "2022-02-02": 1440,
