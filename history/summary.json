@@ -8,7 +8,7 @@
     "uptime": "71.25%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "58.71%",
+    "uptimeMonth": "58.90%",
     "uptimeYear": "63.35%",
     "time": 533,
     "timeDay": 240,
@@ -208,8 +208,7 @@
       "2021-05-10": 28,
       "2021-05-06": 43,
       "2021-03-15": 235,
-      "2021-03-14": 454,
-      "2021-03-13": 105
+      "2021-03-14": 454
     }
   },
   {
@@ -218,10 +217,10 @@
     "icon": "https://favicons.githubusercontent.com/ccih.med.br",
     "slug": "ccih",
     "status": "down",
-    "uptime": "73.63%",
+    "uptime": "73.64%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "58.71%",
+    "uptimeMonth": "58.90%",
     "uptimeYear": "66.39%",
     "time": 728,
     "timeDay": 234,
@@ -456,18 +455,19 @@
     "icon": "https://favicons.githubusercontent.com/cobranca.bradesconetempresa.b.br",
     "slug": "boleto-bradesco",
     "status": "down",
-    "uptime": "96.42%",
+    "uptime": "96.41%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "49.29%",
-    "uptimeYear": "95.77%",
+    "uptimeMonth": "49.11%",
+    "uptimeYear": "95.76%",
     "time": 1069,
-    "timeDay": 1055,
-    "timeWeek": 1027,
+    "timeDay": 1053,
+    "timeWeek": 1028,
     "timeMonth": 1032,
     "timeYear": 1069,
     "dailyMinutesDown": {
-      "2022-03-12": 1403,
+      "2022-03-13": 44,
+      "2022-03-12": 1440,
       "2022-03-11": 1440,
       "2022-03-10": 1440,
       "2022-03-09": 1440,
@@ -518,8 +518,7 @@
       "2021-07-06": 102,
       "2021-07-05": 9,
       "2021-06-28": 265,
-      "2021-06-08": 37,
-      "2021-03-13": 18
+      "2021-06-08": 37
     }
   },
   {
