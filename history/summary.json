@@ -360,9 +360,9 @@
     "slug": "lp-guarda-bens",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.03%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 440,
     "timeDay": 382,
@@ -370,7 +370,7 @@
     "timeMonth": 428,
     "timeYear": 401,
     "dailyMinutesDown": {
-      "2022-04-04": 1
+      "2022-04-04": 14
     }
   },
   {
@@ -464,19 +464,19 @@
     "url": "https://cobranca.bradesconetempresa.b.br",
     "icon": "https://favicons.githubusercontent.com/cobranca.bradesconetempresa.b.br",
     "slug": "boleto-bradesco",
-    "status": "down",
+    "status": "degraded",
     "uptime": "91.61%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "89.57%",
     "time": 1066,
-    "timeDay": 1000,
-    "timeWeek": 1026,
+    "timeDay": 1011,
+    "timeWeek": 1027,
     "timeMonth": 1049,
     "timeYear": 1066,
     "dailyMinutesDown": {
-      "2022-04-04": 882,
+      "2022-04-04": 895,
       "2022-04-03": 1440,
       "2022-04-02": 1440,
       "2022-04-01": 1440,
