@@ -1,7 +1,7 @@
 url: https://cobranca.bradesconetempresa.b.br
-status: degraded
+status: down
 code: 500
-responseTime: 1255
-lastUpdated: 2022-05-25T23:23:25.789Z
+responseTime: 866
+lastUpdated: 2022-05-25T23:44:40.054Z
 startTime: Tue Jan 05 2021 19:44:18 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
