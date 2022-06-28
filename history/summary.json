@@ -203,7 +203,7 @@
     "icon": "https://favicons.githubusercontent.com/ccih.med.br",
     "slug": "ccih",
     "status": "down",
-    "uptime": "78.56%",
+    "uptime": "78.57%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -426,18 +426,19 @@
     "icon": "https://favicons.githubusercontent.com/cobranca.bradesconetempresa.b.br",
     "slug": "boleto-bradesco",
     "status": "down",
-    "uptime": "77.25%",
+    "uptime": "77.24%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "66.45%",
+    "uptimeYear": "66.44%",
     "time": 1058,
     "timeDay": 1026,
     "timeWeek": 1036,
     "timeMonth": 1045,
     "timeYear": 1058,
     "dailyMinutesDown": {
-      "2022-06-27": 1426,
+      "2022-06-28": 65,
+      "2022-06-27": 1440,
       "2022-06-26": 1440,
       "2022-06-25": 1440,
       "2022-06-24": 1440,
@@ -593,8 +594,7 @@
       "2021-07-12": 28,
       "2021-07-07": 1280,
       "2021-07-06": 102,
-      "2021-07-05": 9,
-      "2021-06-28": 265
+      "2021-07-05": 9
     }
   },
   {
