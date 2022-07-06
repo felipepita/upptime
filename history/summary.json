@@ -426,18 +426,19 @@
     "icon": "https://favicons.githubusercontent.com/cobranca.bradesconetempresa.b.br",
     "slug": "boleto-bradesco",
     "status": "degraded",
-    "uptime": "76.12%",
+    "uptime": "76.11%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "64.26%",
+    "uptimeYear": "64.25%",
     "time": 1057,
-    "timeDay": 1036,
+    "timeDay": 1042,
     "timeWeek": 1025,
     "timeMonth": 1043,
     "timeYear": 1057,
     "dailyMinutesDown": {
-      "2022-07-05": 1424,
+      "2022-07-06": 70,
+      "2022-07-05": 1440,
       "2022-07-04": 1440,
       "2022-07-03": 1440,
       "2022-07-02": 1440,
@@ -580,7 +581,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.38%",
+    "uptimeYear": "99.39%",
     "time": 1706,
     "timeDay": 1015,
     "timeWeek": 1192,
@@ -599,8 +600,7 @@
       "2021-07-19": 65,
       "2021-07-14": 23,
       "2021-07-12": 28,
-      "2021-07-07": 1280,
-      "2021-07-06": 102
+      "2021-07-07": 1280
     }
   },
   {
