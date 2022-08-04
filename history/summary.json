@@ -345,17 +345,17 @@
     "url": "https://efish.com.br",
     "icon": "https://favicons.githubusercontent.com/efish.com.br",
     "slug": "e-fish",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.64%",
-    "uptimeDay": "95.23%",
+    "uptimeDay": "95.21%",
     "uptimeWeek": "98.87%",
     "uptimeMonth": "99.74%",
     "uptimeYear": "99.40%",
-    "time": 16782,
-    "timeDay": 16054,
-    "timeWeek": 8552,
-    "timeMonth": 8513,
-    "timeYear": 17039,
+    "time": 16786,
+    "timeDay": 16814,
+    "timeWeek": 9414,
+    "timeMonth": 8859,
+    "timeYear": 17044,
     "dailyMinutesDown": {
       "2022-08-04": 69,
       "2022-08-01": 45,
@@ -416,8 +416,7 @@
       "2021-11-17": 116,
       "2021-11-16": 6,
       "2021-11-13": 27,
-      "2021-11-11": 29,
-      "2021-11-10": 19
+      "2021-11-11": 29
     }
   },
   {
@@ -437,7 +436,7 @@
     "timeMonth": 1039,
     "timeYear": 1055,
     "dailyMinutesDown": {
-      "2022-08-04": 651,
+      "2022-08-04": 671,
       "2022-08-03": 1440,
       "2022-08-02": 1440,
       "2022-08-01": 1440,
