@@ -158,10 +158,10 @@
     "url": "https://montarsite.com.br",
     "icon": "https://favicons.githubusercontent.com/montarsite.com.br",
     "slug": "montar-site",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 417,
@@ -169,7 +169,9 @@
     "timeWeek": 467,
     "timeMonth": 456,
     "timeYear": 418,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-08-07": 1
+    }
   },
   {
     "name": "Chromatox",
@@ -186,7 +188,7 @@
     "timeDay": 1940,
     "timeWeek": 3388,
     "timeMonth": 2521,
-    "timeYear": 2462,
+    "timeYear": 2463,
     "dailyMinutesDown": {
       "2022-08-01": 73,
       "2022-07-29": 52,
@@ -211,7 +213,7 @@
     "timeDay": 167,
     "timeWeek": 191,
     "timeMonth": 187,
-    "timeYear": 401,
+    "timeYear": 400,
     "dailyMinutesDown": {
       "2022-02-25": 770,
       "2022-02-24": 1440,
@@ -354,7 +356,7 @@
     "timeDay": 662,
     "timeWeek": 11223,
     "timeMonth": 8497,
-    "timeYear": 16999,
+    "timeYear": 17003,
     "dailyMinutesDown": {
       "2022-08-04": 153,
       "2022-08-01": 45,
@@ -423,18 +425,18 @@
     "icon": "https://favicons.githubusercontent.com/cobranca.bradesconetempresa.b.br",
     "slug": "boleto-bradesco",
     "status": "degraded",
-    "uptime": "71.79%",
+    "uptime": "71.78%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "55.24%",
+    "uptimeYear": "55.23%",
     "time": 1056,
-    "timeDay": 1050,
-    "timeWeek": 1103,
+    "timeDay": 1055,
+    "timeWeek": 1104,
     "timeMonth": 1054,
     "timeYear": 1056,
     "dailyMinutesDown": {
-      "2022-08-07": 1344,
+      "2022-08-07": 1400,
       "2022-08-06": 1440,
       "2022-08-05": 1440,
       "2022-08-04": 1440,
@@ -605,18 +607,19 @@
     "url": "https://aulasonline.ccih.med.br",
     "icon": "https://favicons.githubusercontent.com/aulasonline.ccih.med.br",
     "slug": "aulas-online-ccih",
-    "status": "up",
+    "status": "down",
     "uptime": "99.56%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.71%",
     "time": 1839,
     "timeDay": 1055,
     "timeWeek": 1177,
     "timeMonth": 1119,
-    "timeYear": 1364,
+    "timeYear": 1361,
     "dailyMinutesDown": {
+      "2022-08-07": 1,
       "2021-09-01": 875,
       "2021-08-31": 536,
       "2021-08-30": 20,
@@ -695,10 +698,10 @@
     "url": "http://laranja.app.br/",
     "icon": "https://favicons.githubusercontent.com/laranja.app.br",
     "slug": "sistema-laranja",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 791,
@@ -706,6 +709,8 @@
     "timeWeek": 848,
     "timeMonth": 816,
     "timeYear": 791,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-08-07": 1
+    }
   }
 ]
