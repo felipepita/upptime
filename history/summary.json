@@ -158,10 +158,10 @@
     "url": "https://montarsite.com.br",
     "icon": "https://favicons.githubusercontent.com/montarsite.com.br",
     "slug": "montar-site",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 417,
@@ -169,7 +169,9 @@
     "timeWeek": 433,
     "timeMonth": 464,
     "timeYear": 417,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-08-13": 2
+    }
   },
   {
     "name": "Chromatox",
@@ -421,19 +423,19 @@
     "url": "https://cobranca.bradesconetempresa.b.br",
     "icon": "https://favicons.githubusercontent.com/cobranca.bradesconetempresa.b.br",
     "slug": "boleto-bradesco",
-    "status": "degraded",
-    "uptime": "71.09%",
+    "status": "down",
+    "uptime": "71.08%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "53.67%",
     "time": 1056,
-    "timeDay": 1039,
-    "timeWeek": 1044,
-    "timeMonth": 1052,
+    "timeDay": 1033,
+    "timeWeek": 1043,
+    "timeMonth": 1051,
     "timeYear": 1056,
     "dailyMinutesDown": {
-      "2022-08-13": 928,
+      "2022-08-13": 948,
       "2022-08-12": 1440,
       "2022-08-11": 1440,
       "2022-08-10": 1440,
@@ -610,18 +612,19 @@
     "url": "https://aulasonline.ccih.med.br",
     "icon": "https://favicons.githubusercontent.com/aulasonline.ccih.med.br",
     "slug": "aulas-online-ccih",
-    "status": "up",
+    "status": "down",
     "uptime": "99.56%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.72%",
-    "time": 1794,
+    "time": 1781,
     "timeDay": 1335,
     "timeWeek": 1337,
     "timeMonth": 1192,
     "timeYear": 1309,
     "dailyMinutesDown": {
+      "2022-08-13": 1,
       "2021-09-01": 875,
       "2021-08-31": 536,
       "2021-08-30": 20,
@@ -698,10 +701,10 @@
     "url": "http://laranja.app.br/",
     "icon": "https://favicons.githubusercontent.com/laranja.app.br",
     "slug": "sistema-laranja",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 789,
@@ -709,6 +712,8 @@
     "timeWeek": 746,
     "timeMonth": 826,
     "timeYear": 789,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-08-13": 1
+    }
   }
 ]
