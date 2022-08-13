@@ -160,18 +160,16 @@
     "slug": "montar-site",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.06%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 417,
     "timeDay": 498,
     "timeWeek": 426,
     "timeMonth": 461,
     "timeYear": 417,
-    "dailyMinutesDown": {
-      "2022-08-13": 14
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Chromatox",
@@ -423,19 +421,19 @@
     "url": "https://cobranca.bradesconetempresa.b.br",
     "icon": "https://favicons.githubusercontent.com/cobranca.bradesconetempresa.b.br",
     "slug": "boleto-bradesco",
-    "status": "down",
+    "status": "degraded",
     "uptime": "71.08%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "53.67%",
+    "uptimeYear": "53.65%",
     "time": 1056,
-    "timeDay": 1033,
+    "timeDay": 1035,
     "timeWeek": 1043,
-    "timeMonth": 1051,
+    "timeMonth": 1052,
     "timeYear": 1056,
     "dailyMinutesDown": {
-      "2022-08-13": 960,
+      "2022-08-13": 1046,
       "2022-08-12": 1440,
       "2022-08-11": 1440,
       "2022-08-10": 1440,
@@ -614,9 +612,9 @@
     "slug": "aulas-online-ccih",
     "status": "up",
     "uptime": "99.56%",
-    "uptimeDay": "99.09%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.72%",
     "time": 1778,
     "timeDay": 1219,
@@ -624,7 +622,6 @@
     "timeMonth": 1189,
     "timeYear": 1309,
     "dailyMinutesDown": {
-      "2022-08-13": 13,
       "2021-09-01": 875,
       "2021-08-31": 536,
       "2021-08-30": 20,
@@ -702,18 +699,16 @@
     "icon": "https://favicons.githubusercontent.com/laranja.app.br",
     "slug": "sistema-laranja",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.13%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 789,
     "timeDay": 848,
     "timeWeek": 742,
     "timeMonth": 822,
     "timeYear": 789,
-    "dailyMinutesDown": {
-      "2022-08-13": 13
-    }
+    "dailyMinutesDown": {}
   }
 ]
