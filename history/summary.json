@@ -13,7 +13,7 @@
     "time": 480,
     "timeDay": 144,
     "timeWeek": 179,
-    "timeMonth": 171,
+    "timeMonth": 172,
     "timeYear": 520,
     "dailyMinutesDown": {
       "2022-02-25": 770,
@@ -167,7 +167,7 @@
     "time": 417,
     "timeDay": 363,
     "timeWeek": 421,
-    "timeMonth": 422,
+    "timeMonth": 423,
     "timeYear": 418,
     "dailyMinutesDown": {}
   },
@@ -185,7 +185,7 @@
     "time": 2372,
     "timeDay": 2000,
     "timeWeek": 2173,
-    "timeMonth": 2467,
+    "timeMonth": 2482,
     "timeYear": 2455,
     "dailyMinutesDown": {
       "2022-08-01": 73,
@@ -210,7 +210,7 @@
     "time": 505,
     "timeDay": 143,
     "timeWeek": 178,
-    "timeMonth": 178,
+    "timeMonth": 179,
     "timeYear": 387,
     "dailyMinutesDown": {
       "2022-02-25": 770,
@@ -353,7 +353,7 @@
     "time": 16607,
     "timeDay": 18042,
     "timeWeek": 12582,
-    "timeMonth": 8770,
+    "timeMonth": 8665,
     "timeYear": 16937,
     "dailyMinutesDown": {
       "2022-08-14": 88,
@@ -422,19 +422,19 @@
     "url": "https://cobranca.bradesconetempresa.b.br",
     "icon": "https://favicons.githubusercontent.com/cobranca.bradesconetempresa.b.br",
     "slug": "boleto-bradesco",
-    "status": "down",
+    "status": "degraded",
     "uptime": "70.92%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "53.31%",
+    "uptimeYear": "53.30%",
     "time": 1056,
-    "timeDay": 1043,
-    "timeWeek": 1042,
+    "timeDay": 1048,
+    "timeWeek": 1044,
     "timeMonth": 1052,
     "timeYear": 1056,
     "dailyMinutesDown": {
-      "2022-08-14": 1402,
+      "2022-08-14": 1425,
       "2022-08-13": 1440,
       "2022-08-12": 1440,
       "2022-08-11": 1440,
@@ -621,7 +621,7 @@
     "time": 1771,
     "timeDay": 1076,
     "timeWeek": 1315,
-    "timeMonth": 1183,
+    "timeMonth": 1191,
     "timeYear": 1300,
     "dailyMinutesDown": {
       "2021-09-01": 875,
@@ -644,7 +644,7 @@
     "time": 1371,
     "timeDay": 953,
     "timeWeek": 932,
-    "timeMonth": 2225,
+    "timeMonth": 2174,
     "timeYear": 1371,
     "dailyMinutesDown": {
       "2022-08-05": 23,
@@ -675,7 +675,7 @@
     "time": 2400,
     "timeDay": 1042,
     "timeWeek": 1271,
-    "timeMonth": 1253,
+    "timeMonth": 1260,
     "timeYear": 2400,
     "dailyMinutesDown": {
       "2022-08-06": 18,
@@ -709,7 +709,7 @@
     "time": 789,
     "timeDay": 853,
     "timeWeek": 782,
-    "timeMonth": 819,
+    "timeMonth": 832,
     "timeYear": 789,
     "dailyMinutesDown": {}
   }
