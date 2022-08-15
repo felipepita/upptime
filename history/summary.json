@@ -5,7 +5,7 @@
     "icon": "https://favicons.githubusercontent.com/bugbusters.com.br",
     "slug": "bug-busters",
     "status": "down",
-    "uptime": "78.43%",
+    "uptime": "78.44%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -427,14 +427,15 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "53.30%",
+    "uptimeYear": "53.29%",
     "time": 1056,
     "timeDay": 1048,
-    "timeWeek": 1044,
+    "timeWeek": 1043,
     "timeMonth": 1052,
     "timeYear": 1056,
     "dailyMinutesDown": {
-      "2022-08-14": 1425,
+      "2022-08-15": 69,
+      "2022-08-14": 1440,
       "2022-08-13": 1440,
       "2022-08-12": 1440,
       "2022-08-11": 1440,
@@ -626,8 +627,7 @@
     "dailyMinutesDown": {
       "2021-09-01": 875,
       "2021-08-31": 536,
-      "2021-08-30": 20,
-      "2021-08-15": 25
+      "2021-08-30": 20
     }
   },
   {
