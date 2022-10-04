@@ -14,7 +14,7 @@
     "timeDay": 130,
     "timeWeek": 180,
     "timeMonth": 181,
-    "timeYear": 242,
+    "timeYear": 237,
     "dailyMinutesDown": {
       "2022-02-25": 770,
       "2022-02-24": 1440,
@@ -167,7 +167,7 @@
     "time": 416,
     "timeDay": 327,
     "timeWeek": 368,
-    "timeMonth": 413,
+    "timeMonth": 409,
     "timeYear": 418,
     "dailyMinutesDown": {
       "2022-09-07": 46
@@ -187,7 +187,7 @@
     "time": 2533,
     "timeDay": 2075,
     "timeWeek": 2325,
-    "timeMonth": 2638,
+    "timeMonth": 2628,
     "timeYear": 2487,
     "dailyMinutesDown": {
       "2022-09-17": 185,
@@ -205,7 +205,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/ccih.med.br.ico",
     "slug": "ccih",
     "status": "down",
-    "uptime": "81.72%",
+    "uptime": "81.73%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -214,7 +214,7 @@
     "timeDay": 145,
     "timeWeek": 177,
     "timeMonth": 176,
-    "timeYear": 294,
+    "timeYear": 292,
     "dailyMinutesDown": {
       "2022-02-25": 770,
       "2022-02-24": 1440,
@@ -356,8 +356,8 @@
     "time": 15905,
     "timeDay": 9544,
     "timeWeek": 12800,
-    "timeMonth": 11910,
-    "timeYear": 15896,
+    "timeMonth": 12026,
+    "timeYear": 15897,
     "dailyMinutesDown": {
       "2022-10-04": 456,
       "2022-10-01": 128,
@@ -425,19 +425,19 @@
     "url": "https://cobranca.bradesconetempresa.b.br",
     "icon": "https://icons.duckduckgo.com/ip3/cobranca.bradesconetempresa.b.br.ico",
     "slug": "boleto-bradesco",
-    "status": "degraded",
-    "uptime": "65.26%",
+    "status": "down",
+    "uptime": "65.25%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "39.36%",
+    "uptimeYear": "39.34%",
     "time": 1056,
-    "timeDay": 1265,
+    "timeDay": 1238,
     "timeWeek": 1215,
     "timeMonth": 1075,
     "timeYear": 1056,
     "dailyMinutesDown": {
-      "2022-10-04": 1280,
+      "2022-10-04": 1404,
       "2022-10-03": 1440,
       "2022-10-02": 1440,
       "2022-10-01": 1440,
@@ -675,7 +675,7 @@
     "time": 1616,
     "timeDay": 1145,
     "timeWeek": 1481,
-    "timeMonth": 1261,
+    "timeMonth": 1257,
     "timeYear": 1135,
     "dailyMinutesDown": {
       "2022-09-07": 45
@@ -695,7 +695,7 @@
     "time": 1337,
     "timeDay": 1281,
     "timeWeek": 996,
-    "timeMonth": 1144,
+    "timeMonth": 1145,
     "timeYear": 1337,
     "dailyMinutesDown": {
       "2022-08-05": 23,
@@ -726,7 +726,7 @@
     "time": 2387,
     "timeDay": 3345,
     "timeWeek": 3484,
-    "timeMonth": 3082,
+    "timeMonth": 3133,
     "timeYear": 2387,
     "dailyMinutesDown": {
       "2022-09-12": 1173,
@@ -766,7 +766,7 @@
     "time": 889,
     "timeDay": 774,
     "timeWeek": 1455,
-    "timeMonth": 1110,
+    "timeMonth": 1119,
     "timeYear": 889,
     "dailyMinutesDown": {
       "2022-09-07": 45
