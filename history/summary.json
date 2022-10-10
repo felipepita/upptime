@@ -13,8 +13,8 @@
     "time": 451,
     "timeDay": 159,
     "timeWeek": 212,
-    "timeMonth": 185,
-    "timeYear": 207,
+    "timeMonth": 186,
+    "timeYear": 200,
     "dailyMinutesDown": {
       "2022-02-25": 770,
       "2022-02-24": 1440,
@@ -167,7 +167,7 @@
     "time": 417,
     "timeDay": 428,
     "timeWeek": 459,
-    "timeMonth": 415,
+    "timeMonth": 416,
     "timeYear": 420,
     "dailyMinutesDown": {
       "2022-09-07": 46
@@ -187,8 +187,8 @@
     "time": 2536,
     "timeDay": 2062,
     "timeWeek": 2599,
-    "timeMonth": 2600,
-    "timeYear": 2496,
+    "timeMonth": 2615,
+    "timeYear": 2494,
     "dailyMinutesDown": {
       "2022-09-17": 185,
       "2022-08-01": 73,
@@ -212,8 +212,8 @@
     "time": 431,
     "timeDay": 146,
     "timeWeek": 196,
-    "timeMonth": 177,
-    "timeYear": 284,
+    "timeMonth": 178,
+    "timeYear": 282,
     "dailyMinutesDown": {
       "2022-02-25": 770,
       "2022-02-24": 1440,
@@ -355,7 +355,7 @@
     "time": 15843,
     "timeDay": 799,
     "timeWeek": 11126,
-    "timeMonth": 12511,
+    "timeMonth": 12601,
     "timeYear": 15780,
     "dailyMinutesDown": {
       "2022-10-09": 41,
@@ -422,19 +422,19 @@
     "url": "https://cobranca.bradesconetempresa.b.br",
     "icon": "https://icons.duckduckgo.com/ip3/cobranca.bradesconetempresa.b.br.ico",
     "slug": "boleto-bradesco",
-    "status": "degraded",
+    "status": "down",
     "uptime": "64.64%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "37.70%",
+    "uptimeYear": "37.69%",
     "time": 1055,
-    "timeDay": 1038,
-    "timeWeek": 1056,
+    "timeDay": 1030,
+    "timeWeek": 1054,
     "timeMonth": 1068,
     "timeYear": 1055,
     "dailyMinutesDown": {
-      "2022-10-10": 1374,
+      "2022-10-10": 1408,
       "2022-10-09": 1440,
       "2022-10-08": 1440,
       "2022-10-07": 1440,
@@ -678,7 +678,7 @@
     "time": 1551,
     "timeDay": 916,
     "timeWeek": 1227,
-    "timeMonth": 1257,
+    "timeMonth": 1261,
     "timeYear": 1131,
     "dailyMinutesDown": {
       "2022-09-07": 45
@@ -698,7 +698,7 @@
     "time": 1334,
     "timeDay": 1065,
     "timeWeek": 1129,
-    "timeMonth": 1122,
+    "timeMonth": 1093,
     "timeYear": 1334,
     "dailyMinutesDown": {
       "2022-08-05": 23,
@@ -724,7 +724,7 @@
     "uptime": "97.96%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "93.89%",
+    "uptimeMonth": "93.96%",
     "uptimeYear": "97.96%",
     "time": 2402,
     "timeDay": 2918,
@@ -769,7 +769,7 @@
     "time": 899,
     "timeDay": 906,
     "timeWeek": 1100,
-    "timeMonth": 1129,
+    "timeMonth": 1134,
     "timeYear": 899,
     "dailyMinutesDown": {
       "2022-09-07": 45
