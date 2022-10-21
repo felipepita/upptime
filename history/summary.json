@@ -9,7 +9,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "65.05%",
+    "uptimeYear": "65.07%",
     "time": 449,
     "timeDay": 130,
     "timeWeek": 205,
@@ -142,8 +142,7 @@
       "2021-10-25": 1440,
       "2021-10-24": 1440,
       "2021-10-23": 1440,
-      "2021-10-22": 1440,
-      "2021-10-21": 1440
+      "2021-10-22": 1440
     }
   },
   {
@@ -419,18 +418,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/cobranca.bradesconetempresa.b.br.ico",
     "slug": "boleto-bradesco",
     "status": "degraded",
-    "uptime": "63.65%",
+    "uptime": "63.64%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "34.95%",
+    "uptimeYear": "34.93%",
     "time": 1059,
-    "timeDay": 2689,
+    "timeDay": 2935,
     "timeWeek": 1339,
     "timeMonth": 1138,
     "timeYear": 1059,
     "dailyMinutesDown": {
-      "2022-10-20": 1417,
+      "2022-10-21": 74,
+      "2022-10-20": 1440,
       "2022-10-19": 1440,
       "2022-10-18": 1440,
       "2022-10-17": 1440,
