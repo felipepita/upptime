@@ -31,7 +31,7 @@ sites:
     url: https://coloprocto2023.com.br/
     maxResponseTime : 10000
   - name: ECIP 2023
-    url: https://ecip.com.br/
+    url: https://www.ecip.com.br/
     maxResponseTime : 10000
     
 status-website:
