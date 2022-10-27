@@ -15,9 +15,6 @@ sites:
   - name: E-fish
     url: https://efish.com.br
     maxResponseTime : 20000
-  - name: Boleto Bradesco
-    url: https://cobranca.bradesconetempresa.b.br
-    maxResponseTime : 1000
   - name: Aulas Online CCIH
     url: https://aulasonline.ccih.med.br
   - name: VB ALIMENTOS
