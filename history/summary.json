@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/bugbusters.com.br.ico",
     "slug": "bug-busters",
     "status": "down",
-    "uptime": "81.23%",
+    "uptime": "81.24%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -145,13 +145,13 @@
     "url": "https://chromatox.com.br",
     "icon": "https://icons.duckduckgo.com/ip3/chromatox.com.br.ico",
     "slug": "chromatox",
-    "status": "up",
-    "uptime": "99.63%",
-    "uptimeDay": "81.52%",
+    "status": "down",
+    "uptime": "99.64%",
+    "uptimeDay": "81.49%",
     "uptimeWeek": "85.43%",
-    "uptimeMonth": "91.43%",
+    "uptimeMonth": "91.47%",
     "uptimeYear": "99.29%",
-    "time": 2579,
+    "time": 2580,
     "timeDay": 2708,
     "timeWeek": 2928,
     "timeMonth": 2844,
@@ -177,8 +177,7 @@
       "2022-10-29": 199,
       "2022-10-28": 151,
       "2022-10-27": 91,
-      "2022-10-26": 167,
-      "2022-10-25": 21
+      "2022-10-26": 167
     }
   },
   {
