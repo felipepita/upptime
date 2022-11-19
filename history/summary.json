@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/bugbusters.com.br.ico",
     "slug": "bug-busters",
     "status": "down",
-    "uptime": "81.32%",
+    "uptime": "81.33%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "73.00%",
+    "uptimeYear": "73.02%",
     "time": 443,
     "timeDay": 0,
     "timeWeek": 225,
@@ -113,8 +113,7 @@
       "2021-11-23": 1440,
       "2021-11-22": 1440,
       "2021-11-21": 1440,
-      "2021-11-20": 1440,
-      "2021-11-19": 1440
+      "2021-11-20": 1440
     }
   },
   {
@@ -151,7 +150,7 @@
     "time": 2657,
     "timeDay": 4029,
     "timeWeek": 3298,
-    "timeMonth": 2946,
+    "timeMonth": 2948,
     "timeYear": 2664,
     "dailyMinutesDown": {
       "2022-11-18": 149,
@@ -187,7 +186,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "73.00%",
+    "uptimeYear": "73.02%",
     "time": 376,
     "timeDay": 0,
     "timeWeek": 200,
@@ -291,8 +290,7 @@
       "2021-11-23": 1440,
       "2021-11-22": 1440,
       "2021-11-21": 1440,
-      "2021-11-20": 1440,
-      "2021-11-19": 1440
+      "2021-11-20": 1440
     }
   },
   {
