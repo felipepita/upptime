@@ -140,9 +140,9 @@
     "slug": "chromatox",
     "status": "up",
     "uptime": "99.67%",
-    "uptimeDay": "95.21%",
-    "uptimeWeek": "93.85%",
-    "uptimeMonth": "92.21%",
+    "uptimeDay": "96.11%",
+    "uptimeWeek": "93.98%",
+    "uptimeMonth": "92.19%",
     "uptimeYear": "99.35%",
     "time": 2640,
     "timeDay": 2697,
@@ -150,7 +150,7 @@
     "timeMonth": 2969,
     "timeYear": 2686,
     "dailyMinutesDown": {
-      "2022-11-22": 69,
+      "2022-11-22": 56,
       "2022-11-21": 20,
       "2022-11-20": 39,
       "2022-11-19": 115,
@@ -172,7 +172,7 @@
       "2022-11-03": 94,
       "2022-11-02": 344,
       "2022-11-01": 248,
-      "2022-10-31": 93
+      "2022-10-31": 113
     }
   },
   {
@@ -294,19 +294,19 @@
     "url": "https://efish.com.br",
     "icon": "https://icons.duckduckgo.com/ip3/efish.com.br.ico",
     "slug": "e-fish",
-    "status": "up",
-    "uptime": "98.92%",
-    "uptimeDay": "83.51%",
+    "status": "degraded",
+    "uptime": "98.93%",
+    "uptimeDay": "83.46%",
     "uptimeWeek": "97.64%",
-    "uptimeMonth": "94.97%",
+    "uptimeMonth": "94.96%",
     "uptimeYear": "97.88%",
-    "time": 15474,
-    "timeDay": 16707,
-    "timeWeek": 8819,
-    "timeMonth": 13412,
-    "timeYear": 15271,
+    "time": 15486,
+    "timeDay": 18581,
+    "timeWeek": 10435,
+    "timeMonth": 13568,
+    "timeYear": 15288,
     "dailyMinutesDown": {
-      "2022-11-22": 237,
+      "2022-11-22": 238,
       "2022-11-12": 459,
       "2022-11-08": 184,
       "2022-11-07": 25,
@@ -348,7 +348,7 @@
       "2022-08-13": 27,
       "2022-08-12": 44,
       "2022-08-10": 29,
-      "2022-08-04": 84
+      "2022-08-04": 52
     }
   },
   {
