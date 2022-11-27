@@ -9,11 +9,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "75.37%",
+    "uptimeYear": "75.44%",
     "time": 440,
     "timeDay": 137,
     "timeWeek": 181,
-    "timeMonth": 202,
+    "timeMonth": 201,
     "timeYear": 185,
     "dailyMinutesDown": {
       "2022-02-25": 770,
@@ -122,7 +122,7 @@
     "time": 421,
     "timeDay": 312,
     "timeWeek": 406,
-    "timeMonth": 456,
+    "timeMonth": 459,
     "timeYear": 428,
     "dailyMinutesDown": {
       "2022-09-07": 46
@@ -133,19 +133,19 @@
     "url": "https://chromatox.com.br",
     "icon": "https://icons.duckduckgo.com/ip3/chromatox.com.br.ico",
     "slug": "chromatox",
-    "status": "up",
-    "uptime": "99.70%",
-    "uptimeDay": "92.98%",
-    "uptimeWeek": "93.55%",
-    "uptimeMonth": "92.97%",
-    "uptimeYear": "99.41%",
+    "status": "down",
+    "uptime": "99.71%",
+    "uptimeDay": "94.77%",
+    "uptimeWeek": "93.54%",
+    "uptimeMonth": "93.04%",
+    "uptimeYear": "99.42%",
     "time": 2701,
-    "timeDay": 3081,
-    "timeWeek": 3178,
-    "timeMonth": 3010,
+    "timeDay": 3321,
+    "timeWeek": 3145,
+    "timeMonth": 3013,
     "timeYear": 2713,
     "dailyMinutesDown": {
-      "2022-11-27": 75,
+      "2022-11-27": 76,
       "2022-11-26": 120,
       "2022-11-25": 119,
       "2022-11-24": 130,
@@ -166,7 +166,7 @@
       "2022-11-09": 219,
       "2022-11-08": 188,
       "2022-11-07": 138,
-      "2022-11-06": 180
+      "2022-11-06": 148
     }
   },
   {
@@ -179,11 +179,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "75.37%",
+    "uptimeYear": "75.44%",
     "time": 368,
     "timeDay": 130,
     "timeWeek": 165,
-    "timeMonth": 202,
+    "timeMonth": 200,
     "timeYear": 191,
     "dailyMinutesDown": {
       "2022-02-25": 770,
@@ -287,12 +287,12 @@
     "uptime": "98.93%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "94.69%",
-    "uptimeMonth": "96.01%",
+    "uptimeMonth": "96.28%",
     "uptimeYear": "97.87%",
     "time": 15330,
     "timeDay": 610,
     "timeWeek": 13310,
-    "timeMonth": 12910,
+    "timeMonth": 12516,
     "timeYear": 15102,
     "dailyMinutesDown": {
       "2022-11-25": 55,
@@ -343,7 +343,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/aulasonline.ccih.med.br.ico",
     "slug": "aulas-online-ccih",
     "status": "up",
-    "uptime": "99.62%",
+    "uptime": "99.63%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -351,7 +351,7 @@
     "time": 1310,
     "timeDay": 1180,
     "timeWeek": 1190,
-    "timeMonth": 1294,
+    "timeMonth": 1299,
     "timeYear": 1173,
     "dailyMinutesDown": {
       "2022-09-07": 45
@@ -371,7 +371,7 @@
     "time": 1310,
     "timeDay": 917,
     "timeWeek": 1068,
-    "timeMonth": 1150,
+    "timeMonth": 1155,
     "timeYear": 1327,
     "dailyMinutesDown": {
       "2022-08-05": 23,
@@ -399,7 +399,7 @@
     "time": 2370,
     "timeDay": 465,
     "timeWeek": 553,
-    "timeMonth": 1835,
+    "timeMonth": 1740,
     "timeYear": 2370,
     "dailyMinutesDown": {
       "2022-09-12": 1173,
@@ -439,7 +439,7 @@
     "time": 989,
     "timeDay": 938,
     "timeWeek": 1806,
-    "timeMonth": 1312,
+    "timeMonth": 1336,
     "timeYear": 989,
     "dailyMinutesDown": {
       "2022-09-07": 45
@@ -459,7 +459,7 @@
     "time": 2813,
     "timeDay": 4835,
     "timeWeek": 2871,
-    "timeMonth": 2813,
+    "timeMonth": 2880,
     "timeYear": 2813,
     "dailyMinutesDown": {}
   },
@@ -477,7 +477,7 @@
     "time": 3551,
     "timeDay": 4812,
     "timeWeek": 5382,
-    "timeMonth": 3551,
+    "timeMonth": 3622,
     "timeYear": 3551,
     "dailyMinutesDown": {}
   },
@@ -490,12 +490,12 @@
     "uptime": "99.96%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.96%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 2276,
     "timeDay": 1522,
     "timeWeek": 2164,
-    "timeMonth": 2276,
+    "timeMonth": 2314,
     "timeYear": 2276,
     "dailyMinutesDown": {
       "2022-10-27": 20
