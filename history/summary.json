@@ -9,7 +9,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "80.91%",
+    "uptimeYear": "80.93%",
     "time": 434,
     "timeDay": 158,
     "timeWeek": 161,
@@ -113,15 +113,15 @@
     "url": "https://chromatox.com.br",
     "icon": "https://icons.duckduckgo.com/ip3/chromatox.com.br.ico",
     "slug": "chromatox",
-    "status": "up",
+    "status": "down",
     "uptime": "99.73%",
-    "uptimeDay": "89.33%",
-    "uptimeWeek": "90.51%",
-    "uptimeMonth": "93.36%",
+    "uptimeDay": "89.31%",
+    "uptimeWeek": "90.50%",
+    "uptimeMonth": "93.44%",
     "uptimeYear": "99.45%",
     "time": 2735,
     "timeDay": 2567,
-    "timeWeek": 2959,
+    "timeWeek": 2969,
     "timeMonth": 3111,
     "timeYear": 2792,
     "dailyMinutesDown": {
@@ -148,7 +148,7 @@
       "2022-11-27": 101,
       "2022-11-26": 120,
       "2022-11-25": 119,
-      "2022-11-24": 130
+      "2022-11-24": 95
     }
   },
   {
@@ -161,7 +161,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "80.91%",
+    "uptimeYear": "80.93%",
     "time": 344,
     "timeDay": 130,
     "timeWeek": 170,
