@@ -9,7 +9,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "81.18%",
+    "uptimeYear": "81.19%",
     "time": 434,
     "timeDay": 246,
     "timeWeek": 174,
@@ -112,16 +112,16 @@
     "url": "https://chromatox.com.br",
     "icon": "https://icons.duckduckgo.com/ip3/chromatox.com.br.ico",
     "slug": "chromatox",
-    "status": "up",
-    "uptime": "99.73%",
-    "uptimeDay": "90.60%",
-    "uptimeWeek": "91.55%",
-    "uptimeMonth": "93.48%",
+    "status": "down",
+    "uptime": "99.74%",
+    "uptimeDay": "90.58%",
+    "uptimeWeek": "91.54%",
+    "uptimeMonth": "93.54%",
     "uptimeYear": "99.46%",
-    "time": 2743,
+    "time": 2742,
     "timeDay": 3008,
     "timeWeek": 2991,
-    "timeMonth": 3065,
+    "timeMonth": 3066,
     "timeYear": 2796,
     "dailyMinutesDown": {
       "2022-12-18": 135,
@@ -147,7 +147,7 @@
       "2022-11-28": 164,
       "2022-11-27": 101,
       "2022-11-26": 120,
-      "2022-11-25": 60
+      "2022-11-25": 34
     }
   },
   {
@@ -160,7 +160,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "81.18%",
+    "uptimeYear": "81.19%",
     "time": 341,
     "timeDay": 213,
     "timeWeek": 174,
@@ -245,17 +245,17 @@
     "slug": "e-fish",
     "status": "up",
     "uptime": "99.10%",
-    "uptimeDay": "97.38%",
-    "uptimeWeek": "99.41%",
-    "uptimeMonth": "97.27%",
-    "uptimeYear": "98.16%",
+    "uptimeDay": "98.19%",
+    "uptimeWeek": "99.53%",
+    "uptimeMonth": "97.30%",
+    "uptimeYear": "98.15%",
     "time": 14934,
     "timeDay": 2470,
     "timeWeek": 1469,
     "timeMonth": 11054,
     "timeYear": 14650,
     "dailyMinutesDown": {
-      "2022-12-18": 38,
+      "2022-12-18": 26,
       "2022-12-17": 22,
       "2022-12-08": 23,
       "2022-12-04": 247,
@@ -289,7 +289,8 @@
       "2022-09-16": 910,
       "2022-09-15": 741,
       "2022-09-14": 34,
-      "2022-09-13": 46
+      "2022-09-13": 46,
+      "2022-09-12": 58
     }
   },
   {
