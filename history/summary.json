@@ -9,11 +9,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "81.49%",
+    "uptimeYear": "81.51%",
     "time": 433,
     "timeDay": 117,
     "timeWeek": 163,
-    "timeMonth": 178,
+    "timeMonth": 177,
     "timeYear": 187,
     "dailyMinutesDown": {
       "2022-02-25": 770,
@@ -82,8 +82,7 @@
       "2021-12-24": 1440,
       "2021-12-23": 1440,
       "2021-12-22": 1440,
-      "2021-12-21": 1440,
-      "2021-12-20": 1440
+      "2021-12-21": 1440
     }
   },
   {
@@ -99,8 +98,8 @@
     "uptimeYear": "99.99%",
     "time": 420,
     "timeDay": 313,
-    "timeWeek": 386,
-    "timeMonth": 401,
+    "timeWeek": 388,
+    "timeMonth": 398,
     "timeYear": 431,
     "dailyMinutesDown": {
       "2022-09-07": 46
@@ -113,17 +112,17 @@
     "slug": "chromatox",
     "status": "up",
     "uptime": "99.74%",
-    "uptimeDay": "94.65%",
-    "uptimeWeek": "91.42%",
-    "uptimeMonth": "93.55%",
+    "uptimeDay": "94.77%",
+    "uptimeWeek": "91.44%",
+    "uptimeMonth": "93.50%",
     "uptimeYear": "99.46%",
     "time": 2746,
     "timeDay": 2679,
-    "timeWeek": 2970,
-    "timeMonth": 3037,
+    "timeWeek": 2976,
+    "timeMonth": 3038,
     "timeYear": 2794,
     "dailyMinutesDown": {
-      "2022-12-19": 78,
+      "2022-12-19": 76,
       "2022-12-18": 135,
       "2022-12-17": 155,
       "2022-12-16": 39,
@@ -146,7 +145,7 @@
       "2022-11-29": 244,
       "2022-11-28": 164,
       "2022-11-27": 101,
-      "2022-11-26": 72
+      "2022-11-26": 96
     }
   },
   {
@@ -155,15 +154,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/ccih.med.br.ico",
     "slug": "ccih",
     "status": "down",
-    "uptime": "83.58%",
+    "uptime": "83.59%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "81.49%",
+    "uptimeYear": "81.51%",
     "time": 338,
     "timeDay": 123,
     "timeWeek": 164,
-    "timeMonth": 171,
+    "timeMonth": 170,
     "timeYear": 190,
     "dailyMinutesDown": {
       "2022-02-25": 770,
@@ -232,8 +231,7 @@
       "2021-12-24": 1440,
       "2021-12-23": 1440,
       "2021-12-22": 1440,
-      "2021-12-21": 1440,
-      "2021-12-20": 1440
+      "2021-12-21": 1440
     }
   },
   {
@@ -250,8 +248,8 @@
     "time": 14898,
     "timeDay": 950,
     "timeWeek": 1507,
-    "timeMonth": 10829,
-    "timeYear": 14618,
+    "timeMonth": 10938,
+    "timeYear": 14619,
     "dailyMinutesDown": {
       "2022-12-18": 26,
       "2022-12-17": 22,
@@ -305,8 +303,8 @@
     "time": 1253,
     "timeDay": 1329,
     "timeWeek": 1599,
-    "timeMonth": 1417,
-    "timeYear": 1205,
+    "timeMonth": 1416,
+    "timeYear": 1206,
     "dailyMinutesDown": {
       "2022-09-07": 45
     }
@@ -325,8 +323,8 @@
     "time": 1296,
     "timeDay": 878,
     "timeWeek": 985,
-    "timeMonth": 1049,
-    "timeYear": 1316,
+    "timeMonth": 1039,
+    "timeYear": 1317,
     "dailyMinutesDown": {
       "2022-08-05": 23,
       "2022-07-15": 27,
@@ -353,7 +351,7 @@
     "time": 2238,
     "timeDay": 390,
     "timeWeek": 491,
-    "timeMonth": 532,
+    "timeMonth": 526,
     "timeYear": 2238,
     "dailyMinutesDown": {
       "2022-09-12": 1173,
@@ -393,7 +391,7 @@
     "time": 1070,
     "timeDay": 981,
     "timeWeek": 1111,
-    "timeMonth": 1795,
+    "timeMonth": 1806,
     "timeYear": 1070,
     "dailyMinutesDown": {
       "2022-09-07": 45
@@ -413,7 +411,7 @@
     "time": 2984,
     "timeDay": 2843,
     "timeWeek": 2651,
-    "timeMonth": 3129,
+    "timeMonth": 3140,
     "timeYear": 2984,
     "dailyMinutesDown": {}
   },
@@ -431,7 +429,7 @@
     "time": 3777,
     "timeDay": 2897,
     "timeWeek": 3376,
-    "timeMonth": 4344,
+    "timeMonth": 4393,
     "timeYear": 3777,
     "dailyMinutesDown": {}
   },
@@ -448,8 +446,8 @@
     "uptimeYear": "99.97%",
     "time": 2468,
     "timeDay": 3149,
-    "timeWeek": 2599,
-    "timeMonth": 2607,
+    "timeWeek": 2510,
+    "timeMonth": 2596,
     "timeYear": 2468,
     "dailyMinutesDown": {
       "2022-10-27": 20
