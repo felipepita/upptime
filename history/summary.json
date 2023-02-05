@@ -9,7 +9,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "94.37%",
+    "uptimeYear": "94.39%",
     "time": 273,
     "timeDay": 153,
     "timeWeek": 186,
@@ -35,8 +35,7 @@
       "2022-02-09": 1440,
       "2022-02-08": 1440,
       "2022-02-07": 1440,
-      "2022-02-06": 1440,
-      "2022-02-05": 1440
+      "2022-02-06": 1440
     }
   },
   {
@@ -67,17 +66,17 @@
     "slug": "chromatox",
     "status": "up",
     "uptime": "99.77%",
-    "uptimeDay": "80.30%",
-    "uptimeWeek": "91.66%",
-    "uptimeMonth": "95.06%",
+    "uptimeDay": "81.19%",
+    "uptimeWeek": "91.79%",
+    "uptimeMonth": "95.09%",
     "uptimeYear": "99.50%",
     "time": 2823,
-    "timeDay": 3051,
+    "timeDay": 3066,
     "timeWeek": 3333,
     "timeMonth": 3185,
     "timeYear": 2883,
     "dailyMinutesDown": {
-      "2023-02-04": 283,
+      "2023-02-04": 270,
       "2023-02-03": 78,
       "2023-02-02": 57,
       "2023-02-01": 134,
@@ -97,7 +96,7 @@
       "2023-01-18": 164,
       "2022-12-31": 168,
       "2022-12-30": 205,
-      "2022-12-29": 95
+      "2022-12-29": 118
     }
   },
   {
@@ -110,7 +109,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "94.37%",
+    "uptimeYear": "94.39%",
     "time": 281,
     "timeDay": 152,
     "timeWeek": 182,
@@ -136,8 +135,7 @@
       "2022-02-09": 1440,
       "2022-02-08": 1440,
       "2022-02-07": 1440,
-      "2022-02-06": 1440,
-      "2022-02-05": 1440
+      "2022-02-06": 1440
     }
   },
   {
@@ -222,18 +220,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/vbalimentos.com.br.ico",
     "slug": "vb-alimentos",
     "status": "down",
-    "uptime": "90.65%",
+    "uptime": "90.64%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "88.00%",
+    "uptimeYear": "87.98%",
     "time": 1199,
     "timeDay": 153,
     "timeWeek": 202,
     "timeMonth": 221,
     "timeYear": 1202,
     "dailyMinutesDown": {
-      "2023-02-04": 1411,
+      "2023-02-05": 60,
+      "2023-02-04": 1440,
       "2023-02-03": 1440,
       "2023-02-02": 1440,
       "2023-02-01": 1440,
