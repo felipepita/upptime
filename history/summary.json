@@ -9,7 +9,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "96.17%",
+    "uptimeYear": "96.18%",
     "time": 252,
     "timeDay": 176,
     "timeWeek": 165,
@@ -58,19 +58,19 @@
     "url": "https://chromatox.com.br",
     "icon": "https://icons.duckduckgo.com/ip3/chromatox.com.br.ico",
     "slug": "chromatox",
-    "status": "up",
-    "uptime": "99.74%",
-    "uptimeDay": "82.17%",
+    "status": "down",
+    "uptime": "99.75%",
+    "uptimeDay": "82.13%",
     "uptimeWeek": "88.49%",
-    "uptimeMonth": "93.28%",
+    "uptimeMonth": "93.32%",
     "uptimeYear": "99.44%",
     "time": 2843,
     "timeDay": 3482,
-    "timeWeek": 3182,
+    "timeWeek": 3179,
     "timeMonth": 3193,
     "timeYear": 2901,
     "dailyMinutesDown": {
-      "2023-02-11": 173,
+      "2023-02-11": 174,
       "2023-02-10": 280,
       "2023-02-09": 108,
       "2023-02-07": 102,
@@ -91,7 +91,7 @@
       "2023-01-23": 161,
       "2023-01-22": 192,
       "2023-01-21": 160,
-      "2023-01-20": 88
+      "2023-01-20": 67
     }
   },
   {
@@ -104,7 +104,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "96.17%",
+    "uptimeYear": "96.18%",
     "time": 269,
     "timeDay": 202,
     "timeWeek": 169,
@@ -134,9 +134,9 @@
     "slug": "e-fish",
     "status": "up",
     "uptime": "99.44%",
-    "uptimeDay": "93.29%",
-    "uptimeWeek": "99.04%",
-    "uptimeMonth": "98.92%",
+    "uptimeDay": "94.11%",
+    "uptimeWeek": "99.16%",
+    "uptimeMonth": "98.95%",
     "uptimeYear": "98.77%",
     "time": 14151,
     "timeDay": 17548,
@@ -144,7 +144,7 @@
     "timeMonth": 6402,
     "timeYear": 13668,
     "dailyMinutesDown": {
-      "2023-02-11": 97,
+      "2023-02-11": 85,
       "2023-02-01": 21,
       "2023-01-25": 28,
       "2023-01-22": 17,
@@ -179,7 +179,8 @@
       "2022-10-04": 456,
       "2022-10-01": 128,
       "2022-09-30": 349,
-      "2022-09-25": 30
+      "2022-09-25": 30,
+      "2022-09-22": 22
     }
   },
   {
@@ -208,7 +209,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/vbalimentos.com.br.ico",
     "slug": "vb-alimentos",
     "status": "down",
-    "uptime": "89.40%",
+    "uptime": "89.39%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -219,7 +220,7 @@
     "timeMonth": 213,
     "timeYear": 1190,
     "dailyMinutesDown": {
-      "2023-02-11": 823,
+      "2023-02-11": 858,
       "2023-02-10": 1440,
       "2023-02-09": 1440,
       "2023-02-08": 1440,
