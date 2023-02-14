@@ -55,13 +55,13 @@
     "url": "https://chromatox.com.br",
     "icon": "https://icons.duckduckgo.com/ip3/chromatox.com.br.ico",
     "slug": "chromatox",
-    "status": "up",
+    "status": "down",
     "uptime": "99.75%",
-    "uptimeDay": "92.19%",
+    "uptimeDay": "92.15%",
     "uptimeWeek": "90.42%",
-    "uptimeMonth": "93.36%",
+    "uptimeMonth": "93.40%",
     "uptimeYear": "99.45%",
-    "time": 2881,
+    "time": 2882,
     "timeDay": 3419,
     "timeWeek": 3242,
     "timeMonth": 3206,
@@ -89,7 +89,7 @@
       "2023-01-25": 99,
       "2023-01-24": 55,
       "2023-01-23": 161,
-      "2023-01-22": 36
+      "2023-01-22": 17
     }
   },
   {
@@ -214,7 +214,7 @@
     "timeMonth": 274,
     "timeYear": 1189,
     "dailyMinutesDown": {
-      "2023-02-14": 1033,
+      "2023-02-14": 1051,
       "2023-02-13": 1440,
       "2023-02-12": 1440,
       "2023-02-11": 1440,
