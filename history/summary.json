@@ -9,7 +9,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "97.65%",
+    "uptimeYear": "97.67%",
     "time": 226,
     "timeDay": 148,
     "timeWeek": 217,
@@ -23,8 +23,7 @@
       "2022-02-21": 1440,
       "2022-02-20": 1440,
       "2022-02-19": 1440,
-      "2022-02-18": 1440,
-      "2022-02-17": 1440
+      "2022-02-18": 1440
     }
   },
   {
@@ -55,7 +54,7 @@
     "slug": "chromatox",
     "status": "up",
     "uptime": "99.49%",
-    "uptimeDay": "13.49%",
+    "uptimeDay": "20.22%",
     "uptimeWeek": "61.69%",
     "uptimeMonth": "86.50%",
     "uptimeYear": "98.88%",
@@ -97,11 +96,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/ccih.med.br.ico",
     "slug": "ccih",
     "status": "down",
-    "uptime": "84.78%",
+    "uptime": "84.79%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "97.65%",
+    "uptimeYear": "97.67%",
     "time": 265,
     "timeDay": 131,
     "timeWeek": 469,
@@ -115,8 +114,7 @@
       "2022-02-21": 1440,
       "2022-02-20": 1440,
       "2022-02-19": 1440,
-      "2022-02-18": 1440,
-      "2022-02-17": 1440
+      "2022-02-18": 1440
     }
   },
   {
@@ -200,18 +198,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/vbalimentos.com.br.ico",
     "slug": "vb-alimentos",
     "status": "down",
-    "uptime": "88.40%",
+    "uptime": "88.39%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "84.71%",
+    "uptimeYear": "84.70%",
     "time": 1180,
     "timeDay": 159,
     "timeWeek": 467,
     "timeMonth": 271,
     "timeYear": 1179,
     "dailyMinutesDown": {
-      "2023-02-16": 1403,
+      "2023-02-17": 60,
+      "2023-02-16": 1440,
       "2023-02-15": 1440,
       "2023-02-14": 1440,
       "2023-02-13": 1440,
