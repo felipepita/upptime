@@ -9,7 +9,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.20%",
+    "uptimeYear": "98.22%",
     "time": 217,
     "timeDay": 213,
     "timeWeek": 192,
@@ -21,8 +21,7 @@
       "2022-02-23": 1440,
       "2022-02-22": 1440,
       "2022-02-21": 1440,
-      "2022-02-20": 1440,
-      "2022-02-19": 1440
+      "2022-02-20": 1440
     }
   },
   {
@@ -52,18 +51,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/chromatox.com.br.ico",
     "slug": "chromatox",
     "status": "up",
-    "uptime": "99.50%",
-    "uptimeDay": "96.68%",
-    "uptimeWeek": "65.10%",
-    "uptimeMonth": "86.58%",
+    "uptime": "99.49%",
+    "uptimeDay": "97.11%",
+    "uptimeWeek": "65.16%",
+    "uptimeMonth": "86.54%",
     "uptimeYear": "98.88%",
     "time": 2864,
-    "timeDay": 3248,
+    "timeDay": 3215,
     "timeWeek": 3245,
     "timeMonth": 3215,
     "timeYear": 2923,
     "dailyMinutesDown": {
-      "2023-02-18": 47,
+      "2023-02-18": 41,
       "2023-02-17": 102,
       "2023-02-16": 1209,
       "2023-02-15": 1440,
@@ -87,7 +86,7 @@
       "2023-01-27": 35,
       "2023-01-26": 113,
       "2023-01-25": 99,
-      "2023-01-24": 32
+      "2023-01-24": 55
     }
   },
   {
@@ -100,7 +99,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.20%",
+    "uptimeYear": "98.22%",
     "time": 263,
     "timeDay": 205,
     "timeWeek": 184,
@@ -112,8 +111,7 @@
       "2022-02-23": 1440,
       "2022-02-22": 1440,
       "2022-02-21": 1440,
-      "2022-02-20": 1440,
-      "2022-02-19": 1440
+      "2022-02-20": 1440
     }
   },
   {
@@ -194,18 +192,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/vbalimentos.com.br.ico",
     "slug": "vb-alimentos",
     "status": "down",
-    "uptime": "88.03%",
+    "uptime": "88.02%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "84.17%",
+    "uptimeYear": "84.15%",
     "time": 1177,
     "timeDay": 227,
     "timeWeek": 205,
     "timeMonth": 269,
     "timeYear": 1174,
     "dailyMinutesDown": {
-      "2023-02-18": 1405,
+      "2023-02-19": 59,
+      "2023-02-18": 1440,
       "2023-02-17": 1440,
       "2023-02-16": 1440,
       "2023-02-15": 1440,
