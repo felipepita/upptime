@@ -9,15 +9,14 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.58%",
+    "uptimeYear": "99.59%",
     "time": 195,
     "timeDay": 213,
     "timeWeek": 206,
     "timeMonth": 204,
     "timeYear": 191,
     "dailyMinutesDown": {
-      "2022-02-25": 770,
-      "2022-02-24": 1440
+      "2022-02-25": 770
     }
   },
   {
@@ -53,7 +52,7 @@
     "uptimeMonth": "86.54%",
     "uptimeYear": "98.88%",
     "time": 2938,
-    "timeDay": 4739,
+    "timeDay": 4448,
     "timeWeek": 3820,
     "timeMonth": 3406,
     "timeYear": 2971,
@@ -94,15 +93,14 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.58%",
+    "uptimeYear": "99.59%",
     "time": 257,
     "timeDay": 229,
     "timeWeek": 201,
     "timeMonth": 258,
     "timeYear": 199,
     "dailyMinutesDown": {
-      "2022-02-25": 770,
-      "2022-02-24": 1440
+      "2022-02-25": 770
     }
   },
   {
@@ -185,18 +183,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/vbalimentos.com.br.ico",
     "slug": "vb-alimentos",
     "status": "down",
-    "uptime": "87.14%",
+    "uptime": "87.13%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "82.79%",
+    "uptimeYear": "82.78%",
     "time": 1167,
     "timeDay": 216,
     "timeWeek": 225,
     "timeMonth": 267,
     "timeYear": 1164,
     "dailyMinutesDown": {
-      "2023-02-23": 1419,
+      "2023-02-24": 57,
+      "2023-02-23": 1440,
       "2023-02-22": 1440,
       "2023-02-21": 1440,
       "2023-02-20": 1440,
@@ -275,11 +274,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/jamaicamangueiras.com.br.ico",
     "slug": "jamaica-mangueiras",
     "status": "up",
-    "uptime": "98.72%",
+    "uptime": "98.73%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.72%",
+    "uptimeYear": "98.73%",
     "time": 1963,
     "timeDay": 779,
     "timeWeek": 666,
