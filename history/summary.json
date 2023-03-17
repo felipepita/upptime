@@ -104,19 +104,19 @@
     "url": "https://efish.com.br",
     "icon": "https://icons.duckduckgo.com/ip3/efish.com.br.ico",
     "slug": "e-fish",
-    "status": "up",
+    "status": "down",
     "uptime": "99.73%",
-    "uptimeDay": "79.08%",
-    "uptimeWeek": "90.67%",
+    "uptimeDay": "79.67%",
+    "uptimeWeek": "90.66%",
     "uptimeMonth": "95.11%",
-    "uptimeYear": "99.37%",
-    "time": 12353,
-    "timeDay": 2354,
+    "uptimeYear": "99.39%",
+    "time": 12351,
+    "timeDay": 2478,
     "timeWeek": 3685,
     "timeMonth": 3676,
     "timeYear": 11400,
     "dailyMinutesDown": {
-      "2023-03-17": 292,
+      "2023-03-17": 293,
       "2023-03-16": 66,
       "2023-03-15": 237,
       "2023-03-14": 166,
@@ -156,7 +156,7 @@
       "2022-12-18": 26,
       "2022-12-17": 22,
       "2022-12-08": 23,
-      "2022-12-04": 122
+      "2022-12-04": 21
     }
   },
   {
@@ -186,7 +186,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/vbalimentos.com.br.ico",
     "slug": "vb-alimentos",
     "status": "down",
-    "uptime": "83.41%",
+    "uptime": "83.40%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
@@ -197,7 +197,7 @@
     "timeMonth": 203,
     "timeYear": 1107,
     "dailyMinutesDown": {
-      "2023-03-17": 1295,
+      "2023-03-17": 1310,
       "2023-03-16": 1440,
       "2023-03-15": 1440,
       "2023-03-14": 1440,
