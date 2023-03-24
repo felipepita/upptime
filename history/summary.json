@@ -108,9 +108,9 @@
     "slug": "e-fish",
     "status": "up",
     "uptime": "99.74%",
-    "uptimeDay": "97.73%",
-    "uptimeWeek": "84.14%",
-    "uptimeMonth": "93.11%",
+    "uptimeDay": "98.58%",
+    "uptimeWeek": "84.26%",
+    "uptimeMonth": "93.13%",
     "uptimeYear": "99.40%",
     "time": 11768,
     "timeDay": 6354,
@@ -118,7 +118,7 @@
     "timeMonth": 2918,
     "timeYear": 10699,
     "dailyMinutesDown": {
-      "2023-03-23": 32,
+      "2023-03-23": 20,
       "2023-03-22": 201,
       "2023-03-21": 232,
       "2023-03-20": 243,
@@ -149,7 +149,7 @@
       "2023-02-21": 33,
       "2023-02-20": 27,
       "2023-02-19": 30,
-      "2023-02-18": 16
+      "2023-02-18": 51
     }
   },
   {
@@ -180,18 +180,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/vbalimentos.com.br.ico",
     "slug": "vb-alimentos",
     "status": "down",
-    "uptime": "82.43%",
+    "uptime": "82.42%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
-    "uptimeYear": "75.12%",
+    "uptimeYear": "75.11%",
     "time": 1116,
     "timeDay": 217,
     "timeWeek": 163,
     "timeMonth": 187,
     "timeYear": 1084,
     "dailyMinutesDown": {
-      "2023-03-23": 1427,
+      "2023-03-24": 52,
+      "2023-03-23": 1440,
       "2023-03-22": 1440,
       "2023-03-21": 1440,
       "2023-03-20": 1440,
