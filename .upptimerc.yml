@@ -33,7 +33,10 @@ sites:
   - name: ECIP 2023
     url: https://www.ecip.com.br/
     maxResponseTime : 10000
-    
+  - name: Naville
+    url: https://www.naville.com.br/
+    maxResponseTime : 10000
+
 status-website:
   baseUrl: /upptime
   logoUrl: https://www.ms360.com.br/estrutura/img/logo.png
