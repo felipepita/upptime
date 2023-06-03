@@ -46,10 +46,10 @@
     "url": "https://chromatox.com.br",
     "icon": "https://icons.duckduckgo.com/ip3/chromatox.com.br.ico",
     "slug": "chromatox",
-    "status": "up",
+    "status": "down",
     "uptime": "99.55%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.88%",
     "time": 3004,
@@ -58,6 +58,7 @@
     "timeMonth": 3498,
     "timeYear": 3069,
     "dailyMinutesDown": {
+      "2023-06-03": 1,
       "2023-02-23": 114,
       "2023-02-22": 68,
       "2023-02-21": 155,
@@ -81,7 +82,7 @@
       "2023-02-02": 57,
       "2023-02-01": 134,
       "2023-01-31": 21,
-      "2023-01-30": 122
+      "2023-01-30": 96
     }
   },
   {
@@ -117,7 +118,7 @@
     "timeDay": 853,
     "timeWeek": 1235,
     "timeMonth": 3696,
-    "timeYear": 7587,
+    "timeYear": 7566,
     "dailyMinutesDown": {
       "2023-06-03": 17,
       "2023-06-02": 155,
@@ -191,18 +192,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/vbalimentos.com.br.ico",
     "slug": "vb-alimentos",
     "status": "down",
-    "uptime": "72.47%",
+    "uptime": "72.46%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "55.61%",
+    "uptimeYear": "55.59%",
     "time": 977,
     "timeDay": 0,
     "timeWeek": 190,
     "timeMonth": 184,
     "timeYear": 847,
     "dailyMinutesDown": {
-      "2023-06-03": 309,
+      "2023-06-03": 417,
       "2023-06-02": 1440,
       "2023-06-01": 1440,
       "2023-05-31": 1440,
