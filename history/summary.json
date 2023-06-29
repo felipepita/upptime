@@ -202,7 +202,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/vbalimentos.com.br.ico",
     "slug": "vb-alimentos",
     "status": "down",
-    "uptime": "69.43%",
+    "uptime": "69.42%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -213,7 +213,7 @@
     "timeMonth": 200,
     "timeYear": 773,
     "dailyMinutesDown": {
-      "2023-06-29": 43,
+      "2023-06-29": 63,
       "2023-06-28": 1440,
       "2023-06-27": 1440,
       "2023-06-26": 1440,
