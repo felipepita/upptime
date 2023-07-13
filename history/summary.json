@@ -12,7 +12,7 @@
     "uptimeYear": "100.00%",
     "time": 189,
     "timeDay": 193,
-    "timeWeek": 192,
+    "timeWeek": 193,
     "timeMonth": 180,
     "timeYear": 188,
     "dailyMinutesDown": {}
@@ -30,7 +30,7 @@
     "uptimeYear": "99.94%",
     "time": 435,
     "timeDay": 384,
-    "timeWeek": 480,
+    "timeWeek": 499,
     "timeMonth": 413,
     "timeYear": 432,
     "dailyMinutesDown": {
@@ -55,7 +55,7 @@
     "uptimeYear": "98.86%",
     "time": 3033,
     "timeDay": 2680,
-    "timeWeek": 2766,
+    "timeWeek": 2791,
     "timeMonth": 2907,
     "timeYear": 3089,
     "dailyMinutesDown": {
@@ -100,7 +100,7 @@
     "uptimeYear": "100.00%",
     "time": 194,
     "timeDay": 201,
-    "timeWeek": 188,
+    "timeWeek": 190,
     "timeMonth": 173,
     "timeYear": 193,
     "dailyMinutesDown": {}
@@ -112,15 +112,15 @@
     "slug": "e-fish",
     "status": "up",
     "uptime": "99.79%",
-    "uptimeDay": "75.83%",
+    "uptimeDay": "80.26%",
     "uptimeWeek": "91.53%",
     "uptimeMonth": "96.23%",
     "uptimeYear": "99.44%",
     "time": 7395,
     "timeDay": 1544,
-    "timeWeek": 2611,
+    "timeWeek": 2643,
     "timeMonth": 3124,
-    "timeYear": 6323,
+    "timeYear": 6317,
     "dailyMinutesDown": {
       "2023-07-12": 348,
       "2023-07-11": 71,
@@ -179,7 +179,7 @@
     "uptimeYear": "99.97%",
     "time": 1289,
     "timeDay": 1435,
-    "timeWeek": 1543,
+    "timeWeek": 1436,
     "timeMonth": 1406,
     "timeYear": 1322,
     "dailyMinutesDown": {
@@ -196,18 +196,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/vbalimentos.com.br.ico",
     "slug": "vb-alimentos",
     "status": "down",
-    "uptime": "67.89%",
+    "uptime": "67.88%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "44.79%",
+    "uptimeYear": "44.77%",
     "time": 886,
     "timeDay": 199,
-    "timeWeek": 214,
+    "timeWeek": 217,
     "timeMonth": 196,
-    "timeYear": 742,
+    "timeYear": 740,
     "dailyMinutesDown": {
-      "2023-07-12": 1400,
+      "2023-07-13": 66,
+      "2023-07-12": 1440,
       "2023-07-11": 1440,
       "2023-07-10": 1440,
       "2023-07-09": 1440,
@@ -410,8 +411,7 @@
       "2022-12-24": 1440,
       "2022-12-23": 669,
       "2022-08-05": 23,
-      "2022-07-15": 27,
-      "2022-07-13": 68
+      "2022-07-15": 27
     }
   },
   {
@@ -427,9 +427,9 @@
     "uptimeYear": "98.81%",
     "time": 1521,
     "timeDay": 591,
-    "timeWeek": 637,
+    "timeWeek": 660,
     "timeMonth": 586,
-    "timeYear": 1162,
+    "timeYear": 1161,
     "dailyMinutesDown": {
       "2023-07-09": 23,
       "2023-03-28": 66,
@@ -458,7 +458,7 @@
     "uptimeYear": "99.93%",
     "time": 1105,
     "timeDay": 1288,
-    "timeWeek": 1261,
+    "timeWeek": 1283,
     "timeMonth": 1227,
     "timeYear": 1170,
     "dailyMinutesDown": {
@@ -484,7 +484,7 @@
     "uptimeYear": "99.76%",
     "time": 2786,
     "timeDay": 3455,
-    "timeWeek": 2557,
+    "timeWeek": 2763,
     "timeMonth": 2290,
     "timeYear": 2786,
     "dailyMinutesDown": {
@@ -506,7 +506,7 @@
     "uptimeYear": "99.45%",
     "time": 3205,
     "timeDay": 4897,
-    "timeWeek": 3209,
+    "timeWeek": 3097,
     "timeMonth": 2945,
     "timeYear": 3205,
     "dailyMinutesDown": {
@@ -531,7 +531,7 @@
     "uptimeYear": "99.55%",
     "time": 3358,
     "timeDay": 4477,
-    "timeWeek": 4559,
+    "timeWeek": 4548,
     "timeMonth": 4406,
     "timeYear": 3358,
     "dailyMinutesDown": {
@@ -555,8 +555,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 5023,
-    "timeDay": 4915,
-    "timeWeek": 4999,
+    "timeDay": 4615,
+    "timeWeek": 4995,
     "timeMonth": 4935,
     "timeYear": 5023,
     "dailyMinutesDown": {
