@@ -93,7 +93,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/ccih.med.br.ico",
     "slug": "ccih",
     "status": "down",
-    "uptime": "87.14%",
+    "uptime": "87.15%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -119,7 +119,7 @@
     "time": 7070,
     "timeDay": 1189,
     "timeWeek": 2031,
-    "timeMonth": 3024,
+    "timeMonth": 3041,
     "timeYear": 6244,
     "dailyMinutesDown": {
       "2023-07-14": 67,
@@ -193,18 +193,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/vbalimentos.com.br.ico",
     "slug": "vb-alimentos",
     "status": "down",
-    "uptime": "67.67%",
+    "uptime": "67.66%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "44.25%",
+    "uptimeYear": "44.23%",
     "time": 882,
     "timeDay": 196,
     "timeWeek": 197,
     "timeMonth": 191,
     "timeYear": 716,
     "dailyMinutesDown": {
-      "2023-07-14": 1406,
+      "2023-07-15": 64,
+      "2023-07-14": 1440,
       "2023-07-13": 1440,
       "2023-07-12": 1440,
       "2023-07-11": 1440,
@@ -408,8 +409,7 @@
       "2022-12-25": 1440,
       "2022-12-24": 1440,
       "2022-12-23": 669,
-      "2022-08-05": 23,
-      "2022-07-15": 27
+      "2022-08-05": 23
     }
   },
   {
