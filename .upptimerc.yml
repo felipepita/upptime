@@ -17,8 +17,6 @@ sites:
     maxResponseTime : 20000
   - name: Aulas Online CCIH
     url: https://aulasonline.ccih.med.br
-  - name: VB ALIMENTOS
-    url: https://vbalimentos.com.br
   - name: JAMAICA MANGUEIRAS
     url: https://jamaicamangueiras.com.br
   - name: SISTEMA LARANJA
