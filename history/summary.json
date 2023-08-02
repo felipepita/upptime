@@ -13,8 +13,8 @@
     "time": 189,
     "timeDay": 142,
     "timeWeek": 172,
-    "timeMonth": 175,
-    "timeYear": 188,
+    "timeMonth": 177,
+    "timeYear": 189,
     "dailyMinutesDown": {}
   },
   {
@@ -31,7 +31,7 @@
     "time": 434,
     "timeDay": 361,
     "timeWeek": 396,
-    "timeMonth": 418,
+    "timeMonth": 419,
     "timeYear": 428,
     "dailyMinutesDown": {
       "2023-07-09": 23,
@@ -57,7 +57,7 @@
     "timeDay": 1993,
     "timeWeek": 2446,
     "timeMonth": 2768,
-    "timeYear": 3089,
+    "timeYear": 3090,
     "dailyMinutesDown": {
       "2023-06-19": 16,
       "2023-06-03": 147,
@@ -119,8 +119,8 @@
     "time": 6688,
     "timeDay": 7774,
     "timeWeek": 3659,
-    "timeMonth": 2681,
-    "timeYear": 6016,
+    "timeMonth": 2704,
+    "timeYear": 6018,
     "dailyMinutesDown": {
       "2023-08-01": 45,
       "2023-07-31": 49,
@@ -168,8 +168,8 @@
     "time": 1323,
     "timeDay": 1102,
     "timeWeek": 1130,
-    "timeMonth": 1720,
-    "timeYear": 1359,
+    "timeMonth": 1735,
+    "timeYear": 1360,
     "dailyMinutesDown": {
       "2023-07-18": 68,
       "2023-07-09": 24,
@@ -193,7 +193,7 @@
     "time": 1445,
     "timeDay": 469,
     "timeWeek": 556,
-    "timeMonth": 615,
+    "timeMonth": 622,
     "timeYear": 1125,
     "dailyMinutesDown": {
       "2023-07-18": 23,
@@ -224,7 +224,7 @@
     "time": 1103,
     "timeDay": 1080,
     "timeWeek": 1173,
-    "timeMonth": 1111,
+    "timeMonth": 1120,
     "timeYear": 1178,
     "dailyMinutesDown": {
       "2023-07-09": 23,
@@ -250,7 +250,7 @@
     "time": 2770,
     "timeDay": 3353,
     "timeWeek": 2328,
-    "timeMonth": 2548,
+    "timeMonth": 2595,
     "timeYear": 2770,
     "dailyMinutesDown": {
       "2023-07-28": 26,
@@ -273,7 +273,7 @@
     "time": 3163,
     "timeDay": 4293,
     "timeWeek": 2825,
-    "timeMonth": 2916,
+    "timeMonth": 2874,
     "timeYear": 3163,
     "dailyMinutesDown": {
       "2023-07-28": 26,
@@ -299,7 +299,7 @@
     "time": 3401,
     "timeDay": 4357,
     "timeWeek": 3714,
-    "timeMonth": 4057,
+    "timeMonth": 4129,
     "timeYear": 3401,
     "dailyMinutesDown": {
       "2023-07-28": 61,
@@ -325,7 +325,7 @@
     "time": 7300,
     "timeDay": 7119,
     "timeWeek": 5851,
-    "timeMonth": 10237,
+    "timeMonth": 10333,
     "timeYear": 7300,
     "dailyMinutesDown": {
       "2023-08-01": 25,
