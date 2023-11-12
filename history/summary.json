@@ -57,7 +57,7 @@
     "timeDay": 2485,
     "timeWeek": 2506,
     "timeMonth": 2505,
-    "timeYear": 3109,
+    "timeYear": 3110,
     "dailyMinutesDown": {
       "2023-06-19": 16,
       "2023-06-03": 147,
@@ -93,7 +93,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/ccih.med.br.ico",
     "slug": "ccih",
     "status": "down",
-    "uptime": "88.58%",
+    "uptime": "88.59%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -110,19 +110,19 @@
     "url": "https://efish.com.br",
     "icon": "https://icons.duckduckgo.com/ip3/efish.com.br.ico",
     "slug": "e-fish",
-    "status": "up",
+    "status": "down",
     "uptime": "99.72%",
-    "uptimeDay": "97.20%",
-    "uptimeWeek": "99.60%",
+    "uptimeDay": "98.65%",
+    "uptimeWeek": "99.59%",
     "uptimeMonth": "99.56%",
-    "uptimeYear": "99.16%",
+    "uptimeYear": "99.17%",
     "time": 4962,
-    "timeDay": 14448,
+    "timeDay": 12681,
     "timeWeek": 7038,
     "timeMonth": 4672,
-    "timeYear": 4356,
+    "timeYear": 4218,
     "dailyMinutesDown": {
-      "2023-11-12": 19,
+      "2023-11-12": 20,
       "2023-11-11": 22,
       "2023-10-16": 35,
       "2023-10-15": 115,
@@ -161,7 +161,7 @@
       "2023-07-16": 322,
       "2023-07-15": 150,
       "2023-07-14": 67,
-      "2023-07-13": 112
+      "2023-07-13": 73
     }
   },
   {
