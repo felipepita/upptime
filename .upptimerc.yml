@@ -34,7 +34,13 @@ sites:
   - name: Naville
     url: https://www.naville.com.br/
     maxResponseTime : 10000
-
+  - name: LARCON Site
+    url: https://larcon.com.br/
+    maxResponseTime : 20000
+  - name: LARCON Sistema
+    url: https://arquivo.larcon.com.br/
+    maxResponseTime : 20000
+    
 status-website:
   baseUrl: /upptime
   logoUrl: https://www.ms360.com.br/estrutura/img/logo.png
