@@ -384,19 +384,19 @@
     "url": "https://larcon.com.br/",
     "icon": "https://icons.duckduckgo.com/ip3/larcon.com.br.ico",
     "slug": "larcon-site",
-    "status": "down",
-    "uptime": "98.97%",
-    "uptimeDay": "98.97%",
-    "uptimeWeek": "98.97%",
-    "uptimeMonth": "98.97%",
-    "uptimeYear": "98.97%",
-    "time": 11084,
-    "timeDay": 11084,
-    "timeWeek": 11084,
-    "timeMonth": 11084,
-    "timeYear": 11084,
+    "status": "up",
+    "uptime": "70.03%",
+    "uptimeDay": "70.03%",
+    "uptimeWeek": "70.03%",
+    "uptimeMonth": "70.03%",
+    "uptimeYear": "70.03%",
+    "time": 6444,
+    "timeDay": 6444,
+    "timeWeek": 6444,
+    "timeMonth": 6444,
+    "timeYear": 6444,
     "dailyMinutesDown": {
-      "2024-02-02": 1
+      "2024-02-02": 25
     }
   },
   {
@@ -405,18 +405,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/arquivo.larcon.com.br.ico",
     "slug": "larcon-sistema",
     "status": "down",
-    "uptime": "0.03%",
-    "uptimeDay": "0.03%",
-    "uptimeWeek": "0.03%",
-    "uptimeMonth": "0.03%",
-    "uptimeYear": "0.03%",
+    "uptime": "0.01%",
+    "uptimeDay": "0.01%",
+    "uptimeWeek": "0.01%",
+    "uptimeMonth": "0.01%",
+    "uptimeYear": "0.01%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-02-02": 57
+      "2024-02-02": 81
     }
   }
 ]
