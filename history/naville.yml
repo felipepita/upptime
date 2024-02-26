@@ -1,7 +1,7 @@
 url: https://www.naville.com.br/
-status: up
+status: degraded
 code: 200
-responseTime: 5246
-lastUpdated: 2024-02-25T23:16:49.578Z
+responseTime: 14356
+lastUpdated: 2024-02-26T14:17:40.747Z
 startTime: 2023-04-19T16:49:23.000Z
 generator: Upptime <https://github.com/upptime/upptime>
