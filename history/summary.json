@@ -99,7 +99,7 @@
     "timeDay": 449,
     "timeWeek": 1370,
     "timeMonth": 887,
-    "timeYear": 3631,
+    "timeYear": 3633,
     "dailyMinutesDown": {
       "2024-02-02": 32,
       "2024-01-23": 47,
@@ -375,9 +375,9 @@
     "url": "https://larcon.com.br/",
     "icon": "https://icons.duckduckgo.com/ip3/larcon.com.br.ico",
     "slug": "larcon-site",
-    "status": "up",
+    "status": "down",
     "uptime": "99.48%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.35%",
     "uptimeYear": "99.48%",
@@ -387,6 +387,7 @@
     "timeMonth": 2081,
     "timeYear": 2337,
     "dailyMinutesDown": {
+      "2024-03-15": 0,
       "2024-03-07": 22,
       "2024-03-03": 78,
       "2024-02-24": 114,
@@ -412,7 +413,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-03-15": 45,
+      "2024-03-15": 222,
       "2024-03-14": 1440,
       "2024-03-13": 1440,
       "2024-03-12": 1440,
