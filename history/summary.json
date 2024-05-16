@@ -91,9 +91,9 @@
     "slug": "e-fish",
     "status": "up",
     "uptime": "99.70%",
-    "uptimeDay": "97.39%",
-    "uptimeWeek": "96.22%",
-    "uptimeMonth": "96.11%",
+    "uptimeDay": "98.20%",
+    "uptimeWeek": "96.34%",
+    "uptimeMonth": "96.13%",
     "uptimeYear": "98.96%",
     "time": 4424,
     "timeDay": 7141,
@@ -101,7 +101,7 @@
     "timeMonth": 12495,
     "timeYear": 4011,
     "dailyMinutesDown": {
-      "2024-05-16": 38,
+      "2024-05-16": 26,
       "2024-05-15": 229,
       "2024-05-14": 23,
       "2024-05-10": 91,
@@ -155,7 +155,7 @@
       "2023-07-28": 61,
       "2023-07-25": 20,
       "2023-07-20": 215,
-      "2023-07-19": 40
+      "2023-07-19": 60
     }
   },
   {
@@ -254,7 +254,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.90%",
+    "uptimeYear": "99.91%",
     "time": 3054,
     "timeDay": 4401,
     "timeWeek": 3566,
@@ -333,11 +333,11 @@
     "url": "https://www.naville.com.br/",
     "icon": "https://icons.duckduckgo.com/ip3/www.naville.com.br.ico",
     "slug": "naville",
-    "status": "up",
+    "status": "down",
     "uptime": "99.41%",
-    "uptimeDay": "97.71%",
-    "uptimeWeek": "97.80%",
-    "uptimeMonth": "98.41%",
+    "uptimeDay": "98.43%",
+    "uptimeWeek": "98.04%",
+    "uptimeMonth": "98.43%",
     "uptimeYear": "99.36%",
     "time": 7789,
     "timeDay": 11666,
@@ -345,7 +345,7 @@
     "timeMonth": 9789,
     "timeYear": 7938,
     "dailyMinutesDown": {
-      "2024-05-16": 33,
+      "2024-05-16": 23,
       "2024-05-09": 263,
       "2024-05-08": 56,
       "2024-05-07": 20,
@@ -456,7 +456,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-05-16": 886,
+      "2024-05-16": 899,
       "2024-05-15": 1440,
       "2024-05-14": 1440,
       "2024-05-13": 1440,
