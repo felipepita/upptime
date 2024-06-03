@@ -91,19 +91,19 @@
     "url": "https://efish.com.br",
     "icon": "https://icons.duckduckgo.com/ip3/efish.com.br.ico",
     "slug": "e-fish",
-    "status": "up",
-    "uptime": "99.59%",
-    "uptimeDay": "76.11%",
-    "uptimeWeek": "73.95%",
-    "uptimeMonth": "82.79%",
-    "uptimeYear": "98.57%",
-    "time": 3690,
-    "timeDay": 1544,
-    "timeWeek": 2762,
+    "status": "down",
+    "uptime": "99.60%",
+    "uptimeDay": "77.14%",
+    "uptimeWeek": "74.04%",
+    "uptimeMonth": "82.99%",
+    "uptimeYear": "98.58%",
+    "time": 3692,
+    "timeDay": 1423,
+    "timeWeek": 2777,
     "timeMonth": 5230,
     "timeYear": 3831,
     "dailyMinutesDown": {
-      "2024-06-03": 88,
+      "2024-06-03": 89,
       "2024-06-02": 299,
       "2024-06-01": 314,
       "2024-05-31": 626,
@@ -118,7 +118,7 @@
       "2024-05-22": 1440,
       "2024-05-21": 552,
       "2024-05-20": 153,
-      "2024-05-19": 243
+      "2024-05-19": 154
     }
   },
   {
@@ -426,7 +426,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-06-03": 193,
+      "2024-06-03": 212,
       "2024-06-02": 1440,
       "2024-06-01": 1440,
       "2024-05-31": 1440,
