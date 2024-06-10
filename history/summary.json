@@ -99,8 +99,8 @@
     "uptimeMonth": "86.85%",
     "uptimeYear": "98.90%",
     "time": 3847,
-    "timeDay": 7089,
-    "timeWeek": 4485,
+    "timeDay": 6698,
+    "timeWeek": 4518,
     "timeMonth": 3606,
     "timeYear": 3995,
     "dailyMinutesDown": {
@@ -307,7 +307,7 @@
     "time": 7743,
     "timeDay": 2657,
     "timeWeek": 4081,
-    "timeMonth": 7612,
+    "timeMonth": 7580,
     "timeYear": 7991,
     "dailyMinutesDown": {
       "2024-06-03": 24,
@@ -425,7 +425,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-06-09": 1415,
+      "2024-06-10": 53,
+      "2024-06-09": 1440,
       "2024-06-08": 1440,
       "2024-06-07": 1440,
       "2024-06-06": 1440,
