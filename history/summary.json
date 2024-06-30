@@ -92,17 +92,17 @@
     "slug": "e-fish",
     "status": "up",
     "uptime": "99.83%",
-    "uptimeDay": "76.98%",
-    "uptimeWeek": "82.58%",
-    "uptimeMonth": "92.73%",
+    "uptimeDay": "79.87%",
+    "uptimeWeek": "82.87%",
+    "uptimeMonth": "92.71%",
     "uptimeYear": "99.39%",
     "time": 4836,
-    "timeDay": 8345,
+    "timeDay": 8780,
     "timeWeek": 7581,
     "timeMonth": 6472,
     "timeYear": 4974,
     "dailyMinutesDown": {
-      "2024-06-30": 231,
+      "2024-06-30": 218,
       "2024-06-29": 211,
       "2024-06-28": 211,
       "2024-06-27": 297,
@@ -113,7 +113,7 @@
       "2024-06-22": 208,
       "2024-06-21": 450,
       "2024-06-20": 259,
-      "2024-06-19": 203
+      "2024-06-19": 223
     }
   },
   {
@@ -378,9 +378,9 @@
     "url": "https://larcon.com.br/",
     "icon": "https://icons.duckduckgo.com/ip3/larcon.com.br.ico",
     "slug": "larcon-site",
-    "status": "up",
+    "status": "down",
     "uptime": "99.26%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.26%",
@@ -390,6 +390,7 @@
     "timeMonth": 2170,
     "timeYear": 2610,
     "dailyMinutesDown": {
+      "2024-06-30": 0,
       "2024-06-22": 46,
       "2024-05-25": 109,
       "2024-05-24": 18,
@@ -426,7 +427,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-06-30": 944,
+      "2024-06-30": 987,
       "2024-06-29": 1440,
       "2024-06-28": 1440,
       "2024-06-27": 1440,
