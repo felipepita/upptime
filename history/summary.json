@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/bugbusters.com.br.ico",
     "slug": "bug-busters",
     "status": "down",
-    "uptime": "89.77%",
+    "uptime": "89.78%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -99,7 +99,7 @@
     "time": 4856,
     "timeDay": 4176,
     "timeWeek": 6321,
-    "timeMonth": 6687,
+    "timeMonth": 6698,
     "timeYear": 4934,
     "dailyMinutesDown": {
       "2024-07-02": 292,
@@ -427,7 +427,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-07-02": 1427,
+      "2024-07-03": 52,
+      "2024-07-02": 1440,
       "2024-07-01": 1440,
       "2024-06-30": 1440,
       "2024-06-29": 1440,
