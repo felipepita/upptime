@@ -1,7 +1,7 @@
 url: https://efish.com.br
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-07-14T15:22:05.076Z
+status: degraded
+code: 200
+responseTime: 23676
+lastUpdated: 2024-07-14T15:43:29.609Z
 startTime: 2020-12-02T19:35:13.000Z
 generator: Upptime <https://github.com/upptime/upptime>
