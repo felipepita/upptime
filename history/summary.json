@@ -4,17 +4,17 @@
     "url": "https://bugbusters.com.br",
     "icon": "https://icons.duckduckgo.com/ip3/bugbusters.com.br.ico",
     "slug": "bug-busters",
-    "status": "down",
+    "status": "up",
     "uptime": "93.48%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 176,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "time": 177,
+    "timeDay": 801,
+    "timeWeek": 801,
+    "timeMonth": 801,
+    "timeYear": 801,
     "dailyMinutesDown": {}
   },
   {
@@ -132,9 +132,9 @@
     "slug": "avc-2023",
     "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.75%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 3895,
     "timeDay": 0,
@@ -142,7 +142,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-16": 1
+      "2026-07-16": 4
     }
   },
   {
@@ -152,9 +152,9 @@
     "slug": "coloprocto-2023",
     "status": "down",
     "uptime": "99.74%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.78%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 2677,
     "timeDay": 0,
@@ -162,7 +162,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-16": 0
+      "2026-07-16": 3
     }
   },
   {
