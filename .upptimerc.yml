@@ -12,9 +12,6 @@ sites:
     url: https://chromatox.com.br
   - name: CCIH
     url: https://ccih.med.br
-  - name: E-fish
-    url: https://efish.com.br
-    maxResponseTime : 20000
   - name: Aulas Online CCIH
     url: https://aulasonline.ccih.med.br
   - name: JAMAICA MANGUEIRAS
@@ -31,14 +28,11 @@ sites:
   - name: ECIP 2023
     url: https://www.ecip.com.br/
     maxResponseTime : 10000
-  - name: Naville
-    url: https://www.naville.com.br/
-    maxResponseTime : 10000
-  - name: LARCON Site
-    url: https://larcon.com.br/
+  - name: LINKPAY
+    url: https://portal.linkpay.com.br/
     maxResponseTime : 20000
-  - name: LARCON Sistema
-    url: https://arquivo.larcon.com.br/
+  - name: INFINITIFLEX
+    url: https://portal.infinitiflex.com.br/
     maxResponseTime : 20000
     
 status-website:
