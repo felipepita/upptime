@@ -22,9 +22,6 @@ sites:
   - name: AVC2023
     url: https://avc2023.com.br/
     maxResponseTime : 10000
-  - name: COLOPROCTO 2023
-    url: https://coloprocto2023.com.br/
-    maxResponseTime : 10000
   - name: ECIP 2023
     url: https://www.ecip.com.br/
     maxResponseTime : 10000
