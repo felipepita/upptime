@@ -22,20 +22,20 @@
     "url": "https://montarsite.com.br",
     "icon": "https://icons.duckduckgo.com/ip3/montarsite.com.br.ico",
     "slug": "montar-site",
-    "status": "down",
+    "status": "up",
     "uptime": "99.83%",
-    "uptimeDay": "93.86%",
-    "uptimeWeek": "99.12%",
-    "uptimeMonth": "99.80%",
-    "uptimeYear": "99.98%",
+    "uptimeDay": "89.83%",
+    "uptimeWeek": "98.55%",
+    "uptimeMonth": "99.67%",
+    "uptimeYear": "99.97%",
     "time": 440,
-    "timeDay": 395,
-    "timeWeek": 395,
-    "timeMonth": 395,
-    "timeYear": 395,
+    "timeDay": 373,
+    "timeWeek": 373,
+    "timeMonth": 373,
+    "timeYear": 373,
     "dailyMinutesDown": {
       "2026-07-16": 73,
-      "2026-07-17": 15
+      "2026-07-17": 73
     }
   },
   {
@@ -115,20 +115,20 @@
     "url": "http://laranja.app.br/",
     "icon": "https://icons.duckduckgo.com/ip3/laranja.app.br.ico",
     "slug": "sistema-laranja",
-    "status": "down",
-    "uptime": "99.87%",
-    "uptimeDay": "94.54%",
-    "uptimeWeek": "99.22%",
-    "uptimeMonth": "99.82%",
-    "uptimeYear": "99.99%",
-    "time": 1002,
-    "timeDay": 1374,
-    "timeWeek": 1374,
-    "timeMonth": 1374,
-    "timeYear": 1374,
+    "status": "up",
+    "uptime": "99.86%",
+    "uptimeDay": "90.50%",
+    "uptimeWeek": "98.64%",
+    "uptimeMonth": "99.69%",
+    "uptimeYear": "99.97%",
+    "time": 1001,
+    "timeDay": 1286,
+    "timeWeek": 1286,
+    "timeMonth": 1286,
+    "timeYear": 1286,
     "dailyMinutesDown": {
       "2026-07-16": 68,
-      "2026-07-17": 10
+      "2026-07-17": 69
     }
   },
   {
@@ -174,19 +174,19 @@
     "url": "https://portal.linkpay.com.br/",
     "icon": "https://icons.duckduckgo.com/ip3/portal.linkpay.com.br.ico",
     "slug": "linkpay",
-    "status": "down",
-    "uptime": "99.61%",
-    "uptimeDay": "99.61%",
-    "uptimeWeek": "99.61%",
-    "uptimeMonth": "99.61%",
-    "uptimeYear": "99.61%",
-    "time": 990,
-    "timeDay": 990,
-    "timeWeek": 990,
-    "timeMonth": 990,
-    "timeYear": 990,
+    "status": "up",
+    "uptime": "95.43%",
+    "uptimeDay": "95.43%",
+    "uptimeWeek": "95.43%",
+    "uptimeMonth": "95.43%",
+    "uptimeYear": "95.43%",
+    "time": 904,
+    "timeDay": 904,
+    "timeWeek": 904,
+    "timeMonth": 904,
+    "timeYear": 904,
     "dailyMinutesDown": {
-      "2026-07-17": 5
+      "2026-07-17": 64
     }
   },
   {
@@ -194,20 +194,20 @@
     "url": "https://portal.infinitiflex.com.br/",
     "icon": "https://icons.duckduckgo.com/ip3/portal.infinitiflex.com.br.ico",
     "slug": "infinitiflex",
-    "status": "down",
-    "uptime": "95.60%",
-    "uptimeDay": "95.60%",
-    "uptimeWeek": "95.60%",
-    "uptimeMonth": "95.60%",
-    "uptimeYear": "95.60%",
-    "time": 1920,
-    "timeDay": 1920,
-    "timeWeek": 1920,
-    "timeMonth": 1920,
-    "timeYear": 1920,
+    "status": "up",
+    "uptime": "91.59%",
+    "uptimeDay": "91.59%",
+    "uptimeWeek": "91.59%",
+    "uptimeMonth": "91.59%",
+    "uptimeYear": "91.59%",
+    "time": 1849,
+    "timeDay": 1849,
+    "timeWeek": 1849,
+    "timeMonth": 1849,
+    "timeYear": 1849,
     "dailyMinutesDown": {
       "2026-07-16": 58,
-      "2026-07-17": 0
+      "2026-07-17": 59
     }
   }
 ]
