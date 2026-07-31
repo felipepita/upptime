@@ -129,9 +129,9 @@
     "slug": "sistema-laranja",
     "status": "up",
     "uptime": "99.84%",
-    "uptimeDay": "98.96%",
-    "uptimeWeek": "95.59%",
-    "uptimeMonth": "98.41%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "95.73%",
+    "uptimeMonth": "98.44%",
     "uptimeYear": "99.87%",
     "time": 1021,
     "timeDay": 1220,
@@ -146,9 +146,7 @@
       "2026-07-25": 287,
       "2026-07-26": 45,
       "2026-07-28": 95,
-      "2026-07-29": 3,
-      "2026-07-31": 8,
-      "2026-07-30": 7
+      "2026-07-29": 3
     }
   },
   {
@@ -195,11 +193,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/portal.linkpay.com.br.ico",
     "slug": "linkpay",
     "status": "up",
-    "uptime": "97.19%",
-    "uptimeDay": "99.30%",
-    "uptimeWeek": "95.87%",
-    "uptimeMonth": "97.19%",
-    "uptimeYear": "97.19%",
+    "uptime": "97.25%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "95.97%",
+    "uptimeMonth": "97.25%",
+    "uptimeYear": "97.25%",
     "time": 1459,
     "timeDay": 1468,
     "timeWeek": 1658,
@@ -212,9 +210,7 @@
       "2026-07-25": 278,
       "2026-07-26": 41,
       "2026-07-28": 85,
-      "2026-07-29": 3,
-      "2026-07-31": 9,
-      "2026-07-30": 2
+      "2026-07-29": 3
     }
   },
   {
@@ -223,11 +219,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/portal.infinitiflex.com.br.ico",
     "slug": "infinitiflex",
     "status": "up",
-    "uptime": "97.12%",
-    "uptimeDay": "99.63%",
-    "uptimeWeek": "96.16%",
-    "uptimeMonth": "97.12%",
-    "uptimeYear": "97.12%",
+    "uptime": "97.16%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "96.21%",
+    "uptimeMonth": "97.16%",
+    "uptimeYear": "97.16%",
     "time": 1632,
     "timeDay": 1450,
     "timeWeek": 1549,
@@ -241,8 +237,7 @@
       "2026-07-25": 268,
       "2026-07-26": 36,
       "2026-07-28": 75,
-      "2026-07-29": 3,
-      "2026-07-31": 5
+      "2026-07-29": 3
     }
   }
 ]
