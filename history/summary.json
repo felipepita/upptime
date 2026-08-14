@@ -87,15 +87,15 @@
     "url": "https://aulasonline.ccih.med.br",
     "icon": "https://icons.duckduckgo.com/ip3/aulasonline.ccih.med.br.ico",
     "slug": "aulas-online-ccih",
-    "status": "down",
-    "uptime": "99.86%",
-    "uptimeDay": "96.08%",
-    "uptimeWeek": "99.44%",
-    "uptimeMonth": "99.59%",
-    "uptimeYear": "99.97%",
-    "time": 873,
-    "timeDay": 179,
-    "timeWeek": 304,
+    "status": "up",
+    "uptime": "99.85%",
+    "uptimeDay": "93.78%",
+    "uptimeWeek": "99.11%",
+    "uptimeMonth": "99.52%",
+    "uptimeYear": "99.96%",
+    "time": 871,
+    "timeDay": 198,
+    "timeWeek": 301,
     "timeMonth": 294,
     "timeYear": 294,
     "dailyMinutesDown": {
@@ -103,7 +103,7 @@
       "2026-07-30": 4,
       "2026-07-29": 16,
       "2026-08-13": 56,
-      "2026-08-14": 1
+      "2026-08-14": 34
     }
   },
   {
