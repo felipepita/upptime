@@ -132,17 +132,17 @@
     "url": "http://laranja.app.br/",
     "icon": "https://icons.duckduckgo.com/ip3/laranja.app.br.ico",
     "slug": "sistema-laranja",
-    "status": "up",
+    "status": "down",
     "uptime": "99.83%",
-    "uptimeDay": "81.15%",
-    "uptimeWeek": "97.31%",
+    "uptimeDay": "81.10%",
+    "uptimeWeek": "97.30%",
     "uptimeMonth": "99.38%",
     "uptimeYear": "99.82%",
-    "time": 1017,
-    "timeDay": 704,
-    "timeWeek": 1048,
-    "timeMonth": 1149,
-    "timeYear": 1183,
+    "time": 1012,
+    "timeDay": 559,
+    "timeWeek": 956,
+    "timeMonth": 1119,
+    "timeYear": 1165,
     "dailyMinutesDown": {
       "2026-07-16": 68,
       "2026-07-17": 69,
@@ -152,7 +152,8 @@
       "2026-07-26": 45,
       "2026-07-28": 95,
       "2026-07-29": 3,
-      "2026-09-01": 271
+      "2026-09-01": 271,
+      "2026-09-02": 1
     }
   },
   {
