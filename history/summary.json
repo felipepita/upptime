@@ -91,10 +91,10 @@
     "slug": "aulas-online-ccih",
     "status": "down",
     "uptime": "99.83%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "98.75%",
-    "uptimeYear": "99.80%",
+    "uptimeDay": "94.73%",
+    "uptimeWeek": "99.25%",
+    "uptimeMonth": "98.58%",
+    "uptimeYear": "99.78%",
     "time": 818,
     "timeDay": 37,
     "timeWeek": 292,
@@ -111,7 +111,7 @@
       "2026-09-12": 116,
       "2026-09-19": 139,
       "2026-09-23": 290,
-      "2026-10-09": 1
+      "2026-10-09": 76
     }
   },
   {
@@ -199,14 +199,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "91.18%",
+    "uptimeYear": "91.16%",
     "time": 2120,
     "timeDay": 29,
     "timeWeek": 53,
     "timeMonth": 46,
     "timeYear": 755,
     "dailyMinutesDown": {
-      "2026-10-09": 173,
+      "2026-10-09": 248,
       "2026-10-08": 1440,
       "2026-10-07": 1440,
       "2026-10-06": 1440,
