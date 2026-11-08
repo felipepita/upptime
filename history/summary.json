@@ -22,12 +22,12 @@
     "url": "https://montarsite.com.br",
     "icon": "https://icons.duckduckgo.com/ip3/montarsite.com.br.ico",
     "slug": "montar-site",
-    "status": "up",
+    "status": "down",
     "uptime": "99.78%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.64%",
+    "uptimeDay": "98.91%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.63%",
     "time": 400,
     "timeDay": 616,
     "timeWeek": 350,
@@ -45,7 +45,8 @@
       "2026-07-31": 8,
       "2026-07-30": 12,
       "2026-09-01": 272,
-      "2026-09-24": 890
+      "2026-09-24": 890,
+      "2026-11-08": 16
     }
   },
   {
@@ -75,14 +76,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/ccih.med.br.ico",
     "slug": "ccih",
     "status": "down",
-    "uptime": "94.06%",
+    "uptime": "94.03%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "14.05%",
-    "uptimeMonth": "80.22%",
-    "uptimeYear": "98.35%",
+    "uptimeWeek": "5.02%",
+    "uptimeMonth": "78.14%",
+    "uptimeYear": "98.18%",
     "time": 125,
     "timeDay": 35,
-    "timeWeek": 88,
+    "timeWeek": 82,
     "timeMonth": 87,
     "timeYear": 55,
     "dailyMinutesDown": {
@@ -91,7 +92,7 @@
       "2026-11-02": 1440,
       "2026-11-01": 289,
       "2026-11-05": 970,
-      "2026-11-08": 235,
+      "2026-11-08": 1145,
       "2026-11-07": 1440,
       "2026-11-06": 1440
     }
@@ -150,13 +151,13 @@
     "url": "http://laranja.app.br/",
     "icon": "https://icons.duckduckgo.com/ip3/laranja.app.br.ico",
     "slug": "sistema-laranja",
-    "status": "up",
+    "status": "down",
     "uptime": "99.45%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.26%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "98.07%",
-    "time": 1007,
+    "time": 1008,
     "timeDay": 1230,
     "timeWeek": 901,
     "timeMonth": 896,
@@ -179,7 +180,8 @@
       "2026-10-06": 1440,
       "2026-10-05": 1440,
       "2026-10-04": 1440,
-      "2026-10-08": 74
+      "2026-10-08": 74,
+      "2026-11-08": 11
     }
   },
   {
@@ -208,18 +210,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.ecip.com.br.ico",
     "slug": "ecip-2023",
     "status": "down",
-    "uptime": "95.49%",
+    "uptime": "95.45%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "82.95%",
+    "uptimeYear": "82.77%",
     "time": 2142,
     "timeDay": 25,
     "timeWeek": 52,
     "timeMonth": 78,
     "timeYear": 582,
     "dailyMinutesDown": {
-      "2026-11-08": 235,
+      "2026-11-08": 1145,
       "2026-11-07": 1440,
       "2026-11-06": 1440,
       "2026-11-05": 1440,
@@ -290,11 +292,11 @@
     "url": "https://portal.linkpay.com.br/",
     "icon": "https://icons.duckduckgo.com/ip3/portal.linkpay.com.br.ico",
     "slug": "linkpay",
-    "status": "up",
+    "status": "down",
     "uptime": "99.65%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.63%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.65%",
     "time": 1020,
     "timeDay": 808,
@@ -308,7 +310,8 @@
       "2026-07-25": 278,
       "2026-07-26": 41,
       "2026-07-28": 85,
-      "2026-07-29": 3
+      "2026-07-29": 3,
+      "2026-11-08": 5
     }
   },
   {
@@ -316,9 +319,9 @@
     "url": "https://portal.infinitiflex.com.br/",
     "icon": "https://icons.duckduckgo.com/ip3/portal.infinitiflex.com.br.ico",
     "slug": "infinitiflex",
-    "status": "up",
+    "status": "down",
     "uptime": "99.64%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.64%",
@@ -335,7 +338,8 @@
       "2026-07-25": 268,
       "2026-07-26": 36,
       "2026-07-28": 75,
-      "2026-07-29": 3
+      "2026-07-29": 3,
+      "2026-11-08": 0
     }
   }
 ]
